@@ -1,0 +1,43 @@
+from lib import *
+
+NASA_T = 'NASA GSFC / Conceptual Image Lab · Bailee DesRocher'
+C = {
+ 1: [capa('capa-impacto.png'),
+     rosto('cidade-apagao', 'Essa hipótese assusta', 'E SE A LUZ ACABAR?'),
+     gerada('casa-sem-luz', 'Mas o que realmente'),
+     kin('sol-erupcao', 'Vou mostrar o caminho', [('DO SOL', 'do Sol até', False), ('ATÉ A TOMADA', 'até a tomada', True), ('E COMO SE PREPARAR', 'como você se prepara', False)], 100)],
+ 2: [gerada('cme-espaco', 'O Sol pode lançar'),
+     gerada('manchas-solares', 'com campo magnético'),
+     foto('nasa-terra-10s.mp4', 'Se ela vier', fonte=NASA_T, tag='VISUALIZAÇÃO CIENTÍFICA · SEM ESCALA'),
+     gerada('aurora-cidade', 'pode provocar uma tempestade'),
+     kin('linhas-transmissao', 'A mudança do campo', [('CORRENTES INDUZIDAS', 'induz correntes', True), ('EM LINHAS LONGAS', 'linhas elétricas longas', False)], 100),
+     gerada('transformador-calor', 'Transformadores podem aquecer'),
+     gerada('subestacao-noite', 'partes da rede podem desligar'),
+     foto('mecanismo.png', 'É assim que um fenômeno', fonte='NOAA / SWPC · ilustração didática', texto=True)],
+ 3: [kin('celular-notebook', 'Isso não significa', [('CELULAR E PC', 'celulares e computadores', False), ('NÃO DERRETEM', 'vão derreter juntos', True)], 110),
+     kin('tecnico-subestacao', 'O risco principal', [('O RISCO É', 'O risco principal', False), ('A REDE', 'é a infraestrutura', True)], 120),
+     gerada('torneira-agua', 'afetar água'),
+     gerada('maquininha-pagamento', 'pagamentos'),
+     gerada('torre-celular', 'e comunicação'),
+     kin('clarao-raiox', 'E uma erupção solar', [('ERUPÇÃO INTENSA', 'solar intensa', False), ('NÃO PROVA APAGÃO', 'não prova', True)], 110),
+     kin('terra-magnetosfera', 'direção, campo', [('DIREÇÃO', 'direção, campo', True), ('CAMPO MAGNÉTICO', 'campo magnético e condições', False), ('ESTADO DA REDE', 'condições da rede', True)], 100)],
+ 4: [capitulo('quebec-1989', 'Em mil novecentos', '1989', 'QUEBEC · CANADÁ', 'Hydro-Québec: cerca de 9 h sem luz', 'tempestade geomagnética'),
+     gerada('hidro-canada', 'A história mostra'),
+     kin('terra-calma', 'Mas um apagão regional', [('APAGÃO REGIONAL', 'apagão regional', False), ('≠ PLANETA APAGADO', 'o planeta inteiro', True)], 100)],
+ 5: [gerada('sala-previsao', 'Acompanhe os alertas'),
+     foto('noaa-sol-real.png', 'a agência americana', fonte='NOAA / SWPC · imagem real do Sol', tag='CONSULTE O PAINEL ATUAL'),
+     gerada('sala-controle-rede', 'orientações da sua distribuidora'),
+     gerada('lanterna-mao', 'Deixe lanterna'),
+     gerada('powerbank-celular', 'bateria externa carregada'),
+     kin('kit-emergencia', 'água, alimentos', [('ÁGUA', 'água, alimentos', False), ('COMIDA', 'alimentos e contatos', False), ('CONTATOS', 'contatos essenciais', True)], 120),
+     kin('aparelho-medico', 'Planeje uma reserva', [('RESERVA DE ENERGIA', 'reserva adequada', True), ('SE ALGUÉM DEPENDE', 'depende de aparelho', False)], 100),
+     gerada('familia-plano', 'Isso também ajuda')],
+ 6: [foto('probabilidade.png', 'Grandes apagões', fonte='NOAA / SWPC · ilustração didática', texto=True),
+     gerada('ceu-noturno-calmo', 'Nem toda tempestade'),
+     foto('erupcoes-pt.png', 'Nenhum gráfico', fonte='SpaceWeatherLive · gráfico de erupções', tag='EXEMPLO DE LEITURA', texto=True),
+     carimbo('porcentagem confiável', 'SEM % DE APAGÃO', x=.5, y=.5),
+     rosto('casa-sem-luz', 'A pergunta prática', 'SUA CASA AGUENTA FICAR SEM ENERGIA?'),
+     cta('Aqui no INEMA', 'inema ponto club') | {'sub_at': 'Conheça os conteúdos'}],
+}
+O = '/home/nmaldaner/projetos/output/solar-equipamentos-20261116/'
+montar('solar-equipamentos', C, [O + 'v3'], [O + 'v3-916'])

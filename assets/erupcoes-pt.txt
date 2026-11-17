@@ -1,0 +1,235 @@
+Notícia
+Atividade solar 
+Atividade auroral 
+Relatórios 
+Arquivo 
+Comunidade
+Galeria
+Ajuda 
+Links
+Sobre 
+Idiomas
+SpaceWeatherLive
+.com
+REAL-TIME AURORAL AND SOLAR ACTIVITY
+Sem anúncios com o Pro! Inscreva-se já
+3:44:25 UTC
+Tela principal
+Atividade solar
+Erupções solares
+Erupções solares
+
+Live 24-hour GOES solar X-ray flux, flare probability, recent solar events, and coronagraph imagery.
+
+Ajuda 
+GOES Solar X-ray Flux (Past 24 hours)
+GOES
+
+The plot on this page shows us the most recent 24-hour solar X-ray data from the primary GOES satellite. You can zoom in on this plot by selecting a time period that you wish to view and export the graph as a JPG, PDF, SVG or PNG file. All times listed are in UTC.
+
+Erupções solares
+Combination chart with 3 data series.
+O satélite de raios X GOES mede os raios X solares por 1 minuto em média no comprimento de onda de 1 a 8 Ångstrom
+The chart has 2 X axes displaying Time, and navigator-x-axis.
+The chart has 2 Y axes displaying values, and navigator-y-axis.
+R5
+R4
+R3
+R2
+R1
+C5.5
+C4.4
+C2.8
+C2.2
+C2
+C1.7
+C1.5
+C1.4
+C1.4
+C1.3
+C1.1
+C1
+C1
+C1
+C1
+Erupções solares
+O satélite de raios X GOES mede os raios X solares por 1 minuto em média no comprimento de onda de 1 a 8 Ångstrom
+Zoom
+2 horas
+6 horas
+24 horas
+3 dias
+GOES-18 (Primário)
+GOES-19 (Secundário)
+13 de nov.
+16:00
+14 de nov.
+08:00
+16:00
+15 de nov.
+08:00
+16:00
+16 de nov.
+14 de nov.​14 de nov.
+15 de nov.​15 de nov.
+16 de nov.​16 de nov.
+A0
+A
+B
+C
+M
+X
+X10
+©NOAA SWPC - SpaceWeatherLive.com
+End of interactive chart.
+Valor atual
+B5.6
+24h máx.
+C1.58
+72h máx.
+C5.55
+Sol de hoje
+Classe	Probability
+Explosão solar classe C	90%
+Explosão solar classe M	25%
+Explosão solar classe X	5%
+Eventos no Sol nas últimas 24 horas
+Todos os horários em UTC
+Data	Região	Solar flare	Começo	Máximo	Fim
+15/11/2026	4579	
+C1.5
+	21:16	21:27	21:34
+15/11/2026	4575	
+C1
+	20:24	20:32	20:34
+15/11/2026	-	
+B8.3
+	17:59	18:06	18:09
+15/11/2026	-	
+B8.5
+	17:14	17:20	17:23
+15/11/2026	-	
+B7.7
+	13:07	13:15	13:31
+15/11/2026	-	
+B7.9
+	11:55	12:01	12:04
+15/11/2026	4578	
+C1
+	09:09	09:23	09:40
+Mais eventos no arquivo
+Live solar flare & coronal mass ejection imagery
+SDO AIA 131 Å
+SDO
+SOHO LASCO C2
+SOHO
+GOES SUVI 131 Å
+GOES
+GOES CCOR-1
+GOES
+STEREO Ahead COR2
+STEREO
+CCOR-2 / SOLAR-1
+SOLAR-1
+Blecaute de Rádio
+D-Region Absorption
+Voltar ao topo
+Atualmente não há clima espacial digno de nota
+Últimas notícias
+domingo, 13 setembro 2026
+Coronal hole faces Earth
+Anterior
+Próximo
+Mais notícias 
+Últimas mensagens do fórum
+AR14579
+26
+Hale Sector Boundaries
+17
+AR14574
+2
+Changelog/Featurelog
+194
+An amateur magnetometer network
+59
+Mais tópicos 
+Apoie o SpaceWeatherLive.com!
+
+Muitas pessoas vêm ao SpaceWeatherLive para acompanhar a atividade solar ou se houver uma chance de ver a aurora, mas com mais tráfego, os custos para manter os servidores online aumentam. Se você gosta do SpaceWeatherLive e quer apoiar o projeto, pode escolher uma subscrição para um site sem anúncios ou considerar uma doação. Com a sua ajuda, podemos manter o SpaceWeatherLive online!
+
+Pro
+Sem anúncios no SWL Pro!
+Assinaturas
+Support
+Doações
+Doar
+ Confira nossos produtos 
+Últimos alertas
+sábado, 14 novembro 2026
+23:00 UTC - Emissão de rádio tipo IV
+
+Hora de início: 14/11/2026 21:32 UTC
+
+ Receba alertas instantâneos! 
+Fatos sobre o clima espacial
+Última explosão X	04/07/2026	X1.3
+Última explosão M	11/11/2026	M1.78
+Última tempestade geomagnética	08/11/2026	Kp5 G1
+Dias impecáveis
+Últimos 365 dias	4 dias
+2026	4 dias (1%)
+Último dia sem manchas	18/09/2026
+Número médio mensal de manchas solares
+outubro 2026	45.7  -14.6
+novembro 2026	85.7  +40
+Últimos 30 dias	64.1  -8.5
+Este dia na história*
+*desde 1994
+Erupções solares
+1	2014	M8.22
+2	1999	M5.5
+3	1999	M4.36
+4	1999	M3.31
+5	2025	M3.1
+#	Ano	Dst	G
+1	1960	-207	G4
+2	1984	-141	G4
+3	1991	-80	
+4	1999	-79	
+5	2014	-59	
+Aurora mestre dois na história
+Nenhuma observação foi submetido neste dia na história. Se você observou a aurora e tem fotos incríveis para mostrar, envie suas observações agora!
+ Envie sua observação da aurora
+Redes sociais
+SOBRE PARSEC VZW
+
+Parsec vzw é uma organização sem fins lucrativos da Bélgica que consiste em vários sites sobre Astronomia, Espaço, Clima Espacial, aurora e assuntos relacionados. Nossa organização promove esses ramos científicos na rede mundial de computadores com sites como este. Dê o seu apoio à nossa organização fazendo uma doação.
+
+Support our non-profit
+NOSSOS SITES
+SpaceWeatherLive
+FutureSpaceFlight
+NightSky.pics
+Spacepage
+Belgium in Space
+StarNights
+ABOUT SPACEWEATHERLIVE
+
+SpaceWeatherLive.com é um site quase ao vivo onde você pode acompanhar o clima espacial do Sol à Terra e saber exatamente quando você pode ver a aurora.
+
+Mais informações
+Contate-Nos
+RSS
+Mobile apps:
+Google Play
+App Store
+Copyright © 2003-2026 SpaceWeatherLive © All rights reserved • Part of Parsec vzw
+Isenção de responsabilidade
+•
+Política de Privacidade
+•
+Scientific Data Access
+•
+Perguntas frequentes
+•
+Comunidade

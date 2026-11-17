@@ -1,0 +1,18 @@
+{
+  "id": "solar-noaa-painel-20261116",
+  "title": "NOAA alerta sobre explosões solares: você sabe ler os sinais?",
+  "source_repo": "/home/nmaldaner/projetos/output/solar-noaa-painel-20261116",
+  "languages": [
+    "pt"
+  ],
+  "github_repo": "inematds/explicavideos",
+  "release_tag": "video-solar-noaa-painel-20261116",
+  "hyperframes": "0.8.77",
+  "engine": "v2",
+  "v1_output": "/home/nmaldaner/projetos/output/solar-noaa-painel-20261116/v1",
+  "profile_visual": "viral",
+  "marca": "INEMA · CLIMA ESPACIAL",
+  "output": "/home/nmaldaner/projetos/output/solar-noaa-painel-20261116/v2",
+  "aspect": "16:9",
+  "capa_segura": true
+}

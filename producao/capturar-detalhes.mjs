@@ -1,0 +1,15 @@
+import { chromium } from '/home/nmaldaner/projetos/inemaccbot/node_modules/playwright/index.mjs';
+const dir='/home/nmaldaner/projetos/output/solar-noaa-serie/media';
+const b=await chromium.launch({headless:true,args:['--no-sandbox']});
+const p=await b.newPage({viewport:{width:1920,height:1080}});
+await p.goto('https://www.spaceweatherlive.com/pt/atividade-solar/erupcoes-solares.html',{waitUntil:'domcontentloaded'});
+await p.waitForTimeout(8000);
+const title=p.getByText('GOES Solar X-ray Flux (Past 24 hours)',{exact:true}).first();
+const card=title.locator('xpath=ancestor::div[contains(concat(" ",normalize-space(@class)," ")," card ")][1]');
+await card.screenshot({path:dir+'/goes-detalhe.png'});
+await p.goto('https://www.spaceweather.gov/communities/space-weather-enthusiasts-dashboard',{waitUntil:'domcontentloaded'});
+await p.waitForTimeout(8000);
+await p.screenshot({path:dir+'/dashboard-escalas.png',clip:{x:270,y:170,width:1380,height:175}});
+const imgs=await p.locator('img').evaluateAll(xs=>xs.map(x=>({src:x.src,alt:x.alt})).filter(x=>/enlil|solar ultraviolet|coronal|lasco|aurora/i.test(x.src+' '+x.alt)));
+console.log(JSON.stringify(imgs));
+await b.close();

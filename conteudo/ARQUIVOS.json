@@ -1,0 +1,42 @@
+[
+  {
+    "name": "solar-equipamentos-169.mp4",
+    "bytes": 60742029,
+    "duration": 102.058,
+    "sha256": "d6a8e727575f20ad737b9263fc3bbd96fdd339228734b1a573b7a0f643691847",
+    "qa": "aprovado",
+    "visual_review": "quadros conferidos"
+  },
+  {
+    "name": "solar-equipamentos-916.mp4",
+    "bytes": 76128838,
+    "duration": 102.058,
+    "sha256": "5f37ecf55c3cd6e3e997acd7e643b8ae8ff7cf25d43ef38a3c0677d2ec13ec13",
+    "qa": "aprovado",
+    "visual_review": "quadros conferidos"
+  },
+  {
+    "name": "solar-noaa-painel-169.mp4",
+    "bytes": 94110014,
+    "duration": 127.445,
+    "sha256": "16c1b70761b4b1034760eb76b84a87f77318350ee64c3668aa06992dce709339",
+    "qa": "aprovado",
+    "visual_review": "quadros conferidos"
+  },
+  {
+    "name": "solar-noaa-painel-916.mp4",
+    "bytes": 112563922,
+    "duration": 127.445,
+    "sha256": "1e4fbfdc255a94f7b8695d76004835d9dac8611fc50f9e4e58470b61a0db39f7",
+    "qa": "aprovado",
+    "visual_review": "quadros conferidos"
+  },
+  {
+    "name": "solar-historia-protecao-169.mp4",
+    "bytes": 289827545,
+    "duration": 491.184,
+    "sha256": "5bf28c28c66bae5f832969ac078549bd7340dfc5ef2ca8a671b9f03a12f536af",
+    "qa": "aprovado",
+    "visual_review": "quadros conferidos"
+  }
+]

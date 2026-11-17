@@ -1,0 +1,15 @@
+{
+  "fenomenos": "https://www.spaceweather.gov/phenomena",
+  "painel": "https://www.spaceweather.gov/communities/space-weather-enthusiasts-dashboard",
+  "erupcoes": "https://www.spaceweatherlive.com/pt/atividade-solar/erupcoes-solares.html",
+  "flare": "https://www.spaceweather.gov/phenomena/solar-flares-radio-blackouts",
+  "cme": "https://www.spaceweather.gov/phenomena/coronal-mass-ejections",
+  "radiacao": "https://www.spaceweather.gov/phenomena/solar-radiation-storm",
+  "buracos": "https://www.spaceweather.gov/phenomena/coronal-holes",
+  "geomagnetica": "https://www.spaceweather.gov/phenomena/geomagnetic-storms",
+  "rede": "https://www.spaceweather.gov/impacts/electric-power-transmission",
+  "escala": "https://www.spaceweather.gov/noaa-scales-explanation",
+  "alertas": "https://www.spaceweather.gov/products/alerts-watches-and-warnings",
+  "preparacao": "https://www.weather.gov/safety/space-before",
+  "historia": "https://www.usgs.gov/programs/geomagnetism/science/may-10-2024-magnetic-disturbance-peak-dst-351-nt"
+}

@@ -1,0 +1,1 @@
+Revisão independente aprovada em 16/11/2026. Conferidos: entendimento em 10 segundos, uso sem instalação, existência dos arquivos no Release, termos e links locais. Telas PT/EN/ES em 390 e 1280 px: sem rolagem horizontal, imagens presentes, três players, alternância de tema persistida. Fontes científicas externas não foram revalidadas pelo revisor visual.

@@ -1,0 +1,80 @@
+[
+  {
+    "chapter": "O alerta e você",
+    "title": "O alerta e você",
+    "kind": "statement",
+    "speech": "NOAA alerta sobre explosões solares. Você sabe quando isso representa perigo para a sua casa, para o avião ou só para o rádio? Um alerta sem a letra, o nível e a validade pode assustar você pelo motivo errado. Vou mostrar como ler os sinais no painel oficial.",
+    "source": "https://www.spaceweather.gov/products/alerts-watches-and-warnings",
+    "labels": [
+      "NOAA alerta: você sabe ler os sinais?"
+    ],
+    "takeaway": "NOAA alerta: você sabe ler os sinais?",
+    "svg": null,
+    "arte": "capa-noaa"
+  },
+  {
+    "chapter": "Três riscos diferentes",
+    "title": "Três riscos diferentes",
+    "kind": "statement",
+    "speech": "Primeiro, separe os fenômenos. A erupção libera radiação eletromagnética: chega à Terra em cerca de oito minutos e pode prejudicar rádio no lado iluminado. Partículas energéticas são outro fenômeno: ameaçam satélites e astronautas e, em eventos fortes, a aviação em regiões polares. Já uma ejeção de massa coronal é uma nuvem de plasma e campo magnético: leva horas a dias e pode desencadear uma tempestade geomagnética.",
+    "source": "https://www.spaceweather.gov/phenomena",
+    "labels": [
+      "Luz · partículas · plasma"
+    ],
+    "takeaway": "Luz · partículas · plasma",
+    "svg": null,
+    "arte": "fenomenos"
+  },
+  {
+    "chapter": "As letras do painel",
+    "title": "As letras do painel",
+    "kind": "statement",
+    "speech": "No dashboard da NOAA, procure três letras. Erre é interrupção de rádio. Esse é tempestade de radiação solar. Gê é tempestade geomagnética. Cada uma vai de um a cinco. O nível de rádio não é o nível de risco para a rede elétrica. Confira também se o quadro mostra o que já foi observado ou uma previsão.",
+    "source": "https://www.spaceweather.gov/noaa-scales-explanation",
+    "labels": [
+      "R = rádio · S = radiação · G = geomagnetismo"
+    ],
+    "takeaway": "R = rádio · S = radiação · G = geomagnetismo",
+    "svg": null,
+    "arte": "dashboard"
+  },
+  {
+    "chapter": "O que os instrumentos mostram",
+    "title": "O que os instrumentos mostram",
+    "kind": "statement",
+    "speech": "O gráfico de raios X dos satélites GOES mostra a intensidade das erupções. As classes A, B, C, M e X sobem de dez em dez no início de cada faixa. Classe X não quer dizer apagão garantido. No coronógrafo, o disco do Sol é bloqueado para enxergar material ao redor. O modelo Enlil estima o percurso do vento solar e das ejeções. São instrumentos diferentes respondendo a perguntas diferentes.",
+    "source": "https://www.spaceweather.gov/phenomena/solar-flares-radio-blackouts",
+    "labels": [
+      "Classe X ≠ apagão garantido"
+    ],
+    "takeaway": "Classe X ≠ apagão garantido",
+    "svg": null,
+    "arte": "goes"
+  },
+  {
+    "chapter": "Como consultar",
+    "title": "Como consultar",
+    "kind": "statement",
+    "speech": "Abra o painel oficial da NOAA. Veja a escala, o horário em tempo universal e os detalhes do aviso. Watch indica possibilidade em uma janela futura; warning indica condição esperada em breve; alert registra um limiar observado. Leia a mensagem inteira. O SpaceWeatherLive facilita acompanhar os gráficos em português; o boletim da NOAA é a fonte para conferir o aviso. Um print antigo não é previsão atual.",
+    "source": "https://www.spaceweather.gov/products/alerts-watches-and-warnings",
+    "labels": [
+      "Letra + nível + horário + mensagem"
+    ],
+    "takeaway": "Letra + nível + horário + mensagem",
+    "svg": null,
+    "arte": "dashboard"
+  },
+  {
+    "chapter": "O que fazer com isso",
+    "title": "O que fazer com isso",
+    "kind": "statement",
+    "speech": "Se o aviso envolve a sua região e serviço, siga as orientações dos responsáveis. Para a família, mantenha um plano de apagão e baterias carregadas; para satélites, aviação e redes, as medidas são técnicas. Você já tinha confundido classe X com apagão? Aprenda a conferir antes de compartilhar. Tem conteúdo gratuito em inema ponto club.",
+    "source": "https://www.weather.gov/safety/space-before",
+    "labels": [
+      "Confira antes de compartilhar"
+    ],
+    "takeaway": "Confira antes de compartilhar",
+    "svg": null,
+    "arte": "kit"
+  }
+]

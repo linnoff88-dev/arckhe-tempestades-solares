@@ -1,0 +1,13 @@
+Gere 9 imagens com a ferramenta de geração de imagem (image_gen) e salve nesta pasta, em PNG, formato PAISAGEM 16:9 (o maior tamanho horizontal disponível). Estilo: fotografia/ilustração cinematográfica realista, alta nitidez, luz NEUTRA (branco parece branco; NADA de paleta âmbar/dourada geral), uma cor forte de destaque por imagem, contraste alto, sem logos, sem marcas, SEM NENHUM TEXTO, letra, número ou legenda na imagem. Deixe o terço de baixo um pouco mais escuro e simples (vai legenda ali) e o canto inferior direito sem o assunto principal (vai o rosto do apresentador ali). Assunto principal à esquerda/centro. Visualização científica é ilustrativa, sem escala.
+
+1. engenheiros-linha.png — dois engenheiros eletricistas com capacete e tablet ao pé de uma torre de alta tensão, de dia.
+2. defesa-civil.png — voluntários de colete laranja (sem logos, sem texto) distribuindo água e lanternas para moradores numa rua brasileira.
+3. quadro-eletrico.png — quadro de disjuntores residencial fechado na parede, com uma mão parando antes de abrir (gesto de "não mexa").
+4. filtro-tomada.png — filtro de linha (régua de tomadas) no chão com vários plugs, close.
+5. gerador-fora.png — gerador portátil funcionando do LADO DE FORA de uma casa, no quintal, longe de portas e janelas, à noite.
+6. remedios-documentos.png — remédios, documentos numa pasta plástica e uma folha com contatos escritos à mão (ilegíveis) sobre uma mesa.
+7. janela-apartamento.png — pessoa em pé diante da janela de um apartamento escuro à noite, segurando o celular, cidade lá fora sem luz, momento de reflexão.
+8. vento-terra-campo.png — fluxo de vento solar azul encontrando a magnetosfera da Terra, ondas de choque em arco (ilustração científica).
+9. geladeira-aberta.png — geladeira aberta e apagada numa cozinha escura, sem luz interna.
+
+Não mexa em nenhum outro arquivo. Ao final, liste os arquivos salvos.

@@ -1,0 +1,24 @@
+Explosão solar pode derreter seus equipamentos e apagar o planeta?
+
+Vídeo independente e educativo. O gancho é uma pergunta hipotética. Não é boletim atual, previsão de apagão mundial ou anúncio datado da NOAA.
+
+Fontes para conferir:
+https://www.spaceweather.gov/phenomena
+https://www.spaceweather.gov/communities/space-weather-enthusiasts-dashboard
+https://www.spaceweatherlive.com/pt/atividade-solar/erupcoes-solares.html
+https://www.spaceweather.gov/phenomena/solar-flares-radio-blackouts
+https://www.spaceweather.gov/phenomena/coronal-mass-ejections
+https://www.spaceweather.gov/phenomena/solar-radiation-storm
+https://www.spaceweather.gov/phenomena/coronal-holes
+https://www.spaceweather.gov/phenomena/geomagnetic-storms
+https://www.spaceweather.gov/impacts/electric-power-transmission
+https://www.spaceweather.gov/noaa-scales-explanation
+https://www.spaceweather.gov/products/alerts-watches-and-warnings
+https://www.weather.gov/safety/space-before
+https://www.usgs.gov/programs/geomagnetism/science/may-10-2024-magnetic-disturbance-peak-dst-351-nt
+
+Conteúdo educativo gratuito: https://inema.club
+
+Créditos visuais: NOAA / Space Weather Prediction Center; NASA Goddard Space Flight Center Conceptual Image Lab — Bailee DesRocher (magnetosfera, https://svs.gsfc.nasa.gov/20297/) e Walt Feimer (partículas e CME, https://svs.gsfc.nasa.gov/20125/). Animações científicas ilustrativas, sem escala. Telas de dashboard são exemplos de leitura; consulte o boletim vigente.
+Trilha: Star walk — szegvari, CC0, https://freesound.org/people/szegvari/sounds/595385/ . Reutilizada da biblioteca do inemavox.
+Capas: image_gen pela assinatura Codex; diagramas educativos: código SVG.

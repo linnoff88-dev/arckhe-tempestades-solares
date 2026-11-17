@@ -1,0 +1,24 @@
+[
+  {
+    "file": "/home/nmaldaner/projetos/output/solar-historia-protecao-20261116/entrega/solar-historia-protecao-169.mp4",
+    "probe": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "491.184000"
+      }
+    },
+    "technical_qa": "passed",
+    "visual_review": "pending",
+    "published": false
+  }
+]

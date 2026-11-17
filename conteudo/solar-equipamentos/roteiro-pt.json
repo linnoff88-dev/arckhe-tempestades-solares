@@ -1,0 +1,80 @@
+[
+  {
+    "chapter": "A hipótese que assusta",
+    "title": "A hipótese que assusta",
+    "kind": "statement",
+    "speech": "Uma explosão solar pode derreter todos os seus equipamentos e deixar o planeta sem luz? Essa hipótese assusta. Mas o que realmente pode acontecer com a sua casa? Vou mostrar o caminho do risco, do Sol até a tomada, e como você se prepara.",
+    "source": "https://www.spaceweather.gov/impacts/electric-power-transmission",
+    "labels": [
+      "O Sol pode derreter tudo?"
+    ],
+    "takeaway": "O Sol pode derreter tudo?",
+    "svg": null,
+    "arte": "capa-impacto"
+  },
+  {
+    "chapter": "Do Sol até a rede",
+    "title": "Do Sol até a rede",
+    "kind": "statement",
+    "speech": "O Sol pode lançar uma nuvem de plasma com campo magnético. Se ela vier na nossa direção e interagir intensamente com o campo da Terra, pode provocar uma tempestade geomagnética. A mudança do campo induz correntes em linhas elétricas longas. Transformadores podem aquecer, sofrer danos e partes da rede podem desligar. É assim que um fenômeno distante pode tirar a luz da sua casa.",
+    "source": "https://www.spaceweather.gov/phenomena/geomagnetic-storms",
+    "labels": [
+      "Sol → campo da Terra → rede elétrica"
+    ],
+    "takeaway": "Sol → campo da Terra → rede elétrica",
+    "svg": null,
+    "arte": "mecanismo"
+  },
+  {
+    "chapter": "O que derreter significa",
+    "title": "O que derreter significa",
+    "kind": "statement",
+    "speech": "Isso não significa que todos os celulares e computadores vão derreter juntos. O risco principal aqui é a infraestrutura. A falta de energia pode afetar água, pagamentos e comunicação. E uma erupção solar intensa, sozinha, não prova que haverá apagão: direção, campo magnético e condições da rede fazem diferença.",
+    "source": "https://www.spaceweather.gov/impacts/electric-power-transmission",
+    "labels": [
+      "Dano na infraestrutura ≠ todos os aparelhos derretidos"
+    ],
+    "takeaway": "Dano na infraestrutura ≠ todos os aparelhos derretidos",
+    "svg": null,
+    "arte": "rede"
+  },
+  {
+    "chapter": "Já aconteceu",
+    "title": "Já aconteceu",
+    "kind": "statement",
+    "speech": "Em mil novecentos e oitenta e nove, uma tempestade geomagnética provocou um apagão em Quebec, no Canadá. A história mostra que o risco existe. Mas um apagão regional não é o planeta inteiro apagado.",
+    "source": "https://www.usgs.gov/programs/geomagnetism/science/may-10-2024-magnetic-disturbance-peak-dst-351-nt",
+    "labels": [
+      "Quebec, 1989: um apagão real"
+    ],
+    "takeaway": "Quebec, 1989: um apagão real",
+    "svg": null,
+    "arte": "historia"
+  },
+  {
+    "chapter": "Prepare a sua casa",
+    "title": "Prepare a sua casa",
+    "kind": "statement",
+    "speech": "Acompanhe os alertas da NOAA, a agência americana que monitora o clima espacial, e as orientações da sua distribuidora. Deixe lanterna, bateria externa carregada, água, alimentos e contatos essenciais acessíveis. Planeje uma reserva adequada se alguém depende de aparelho elétrico para viver. Isso também ajuda num apagão comum.",
+    "source": "https://www.weather.gov/safety/space-before",
+    "labels": [
+      "Preparar antes de faltar luz"
+    ],
+    "takeaway": "Preparar antes de faltar luz",
+    "svg": null,
+    "arte": "kit"
+  },
+  {
+    "chapter": "Qual é a chance",
+    "title": "Qual é a chance",
+    "kind": "statement",
+    "speech": "Grandes apagões por clima espacial são raros. Nem toda tempestade extrema causa uma catástrofe. Nenhum gráfico de erupções dá uma porcentagem confiável de o planeta ficar sem luz. A pergunta prática é: sua casa aguenta ficar sem energia? Aqui no INEMA a gente aprende para agir. Conheça os conteúdos gratuitos em inema ponto club.",
+    "source": "https://www.weather.gov/safety/space-before",
+    "labels": [
+      "Sua casa aguenta ficar sem energia?"
+    ],
+    "takeaway": "Sua casa aguenta ficar sem energia?",
+    "svg": null,
+    "arte": "kit"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "solar-equipamentos-169.mp4",
+    "bytes": 39541620,
+    "duration": 102.058,
+    "sha256": "4563fc5a69717c0d3b44da8a83a970859e82a445e3ac874986e987fe014deb10",
+    "qa": "aprovado (capa parada de propósito)",
+    "visual_review": "folhas de quadros conferidas 17/11/2026",
+    "url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.1.0/solar-equipamentos-169.mp4"
+  },
+  {
+    "name": "solar-equipamentos-916.mp4",
+    "bytes": 45880011,
+    "duration": 102.058,
+    "sha256": "5941776cf44d45e7e277eb5d5aade1ec8151e9f877c2890bf42efcdd2326e4ae",
+    "qa": "aprovado (capa parada de propósito)",
+    "visual_review": "folhas de quadros conferidas 17/11/2026",
+    "url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.1.0/solar-equipamentos-916.mp4"
+  },
+  {
+    "name": "solar-noaa-painel-169.mp4",
+    "bytes": 47310112,
+    "duration": 127.445,
+    "sha256": "be069f62e1cbb91d5d23e54b040b9a4f59fbbfee383742616c037a3b619b6530",
+    "qa": "aprovado (capa parada de propósito)",
+    "visual_review": "folhas de quadros conferidas 17/11/2026",
+    "url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.1.0/solar-noaa-painel-169.mp4"
+  },
+  {
+    "name": "solar-noaa-painel-916.mp4",
+    "bytes": 53924202,
+    "duration": 127.445,
+    "sha256": "43f965a702246ca37fa31b2eef9057a04e95c85100730cfdc4d9d84e86890c4a",
+    "qa": "aprovado (capa parada de propósito)",
+    "visual_review": "folhas de quadros conferidas 17/11/2026",
+    "url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.1.0/solar-noaa-painel-916.mp4"
+  },
+  {
+    "name": "solar-historia-protecao-169.mp4",
+    "bytes": 151174625,
+    "duration": 491.184,
+    "sha256": "9609bb0058aa16dcb2b747fab8680109d85918f5014245293fb700362e138fe9",
+    "qa": "aprovado (capa parada de propósito)",
+    "visual_review": "folhas de quadros conferidas 17/11/2026",
+    "url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.1.0/solar-historia-protecao-169.mp4"
+  }
+]

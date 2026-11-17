@@ -1,0 +1,21 @@
+{
+  "id": "solar-noaa-painel-20261116",
+  "title": "NOAA alerta sobre explosões solares: você sabe ler os sinais?",
+  "source_repo": "/home/nmaldaner/projetos/output/solar-noaa-painel-20261116",
+  "languages": [
+    "pt"
+  ],
+  "github_repo": "inematds/explicavideos",
+  "release_tag": "video-solar-noaa-painel-20261116",
+  "hyperframes": "0.8.77",
+  "output": "/home/nmaldaner/projetos/output/solar-noaa-painel-20261116/v1",
+  "scene_files": {
+    "pt": "/home/nmaldaner/projetos/output/solar-noaa-serie/solar-noaa-painel/roteiro-pt.json"
+  },
+  "template": "TEMPLATE-AVATAR16",
+  "profile": "/home/nmaldaner/.cache/inemaccbot/perfil-heygen",
+  "max_chars": 4400,
+  "transcriber": "whisper-local",
+  "balanced_blocks": true,
+  "whisper_prompt": "Nei Maldaner, INEMA, NOAA, Quebec, Carrington, GOES, Enlil, plasma, geomagnética, inema ponto club."
+}

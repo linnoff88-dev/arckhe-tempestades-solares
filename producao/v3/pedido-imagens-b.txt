@@ -1,0 +1,18 @@
+Gere 14 imagens com a ferramenta de geração de imagem (image_gen) e salve nesta pasta, em PNG, formato PAISAGEM 16:9 (o maior tamanho horizontal disponível). Estilo: fotografia/ilustração cinematográfica realista, alta nitidez, luz NEUTRA (branco parece branco; NADA de paleta âmbar/dourada geral), uma cor forte de destaque por imagem, contraste alto, sem logos, sem marcas, SEM NENHUM TEXTO, letra, número ou legenda na imagem. Deixe o terço de baixo um pouco mais escuro e simples (vai legenda ali) e o canto inferior direito sem o assunto principal (vai o rosto do apresentador ali). Assunto principal à esquerda/centro. Visualização científica é ilustrativa, sem escala.
+
+1. quebec-1989.png — cidade de Quebec, Canadá, numa noite de inverno com neve, ruas e prédios totalmente às escuras, só luz fraca de lanternas em janelas; clima de fim dos anos 1980.
+2. hidro-canada.png — grandes linhas de transmissão atravessando uma paisagem nevada do norte do Canadá, céu com aurora fraca.
+3. telegrafo-1859.png — escritório de telégrafo do século XIX, operador de colete diante do aparelho telegráfico soltando faíscas, papéis em chamas leves.
+4. carrington-ceu.png — 1859, pessoas em roupas da época numa rua de pedra olhando para o céu noturno tomado por uma aurora vermelha intensa.
+5. sala-previsao.png — sala de previsão do clima espacial: analistas diante de várias telas com imagens do Sol e gráficos (sem texto legível), sem logos.
+6. kit-emergencia.png — vista de cima de um kit de emergência sobre uma mesa de madeira: lanterna, pilhas, bateria externa (power bank), garrafas de água, enlatados, uma folha de papel em branco com caneta.
+7. powerbank-celular.png — bateria externa carregando um celular sobre a mesa à noite, luz fraca, casa sem energia.
+8. aparelho-medico.png — concentrador de oxigênio doméstico ao lado de uma poltrona em casa, com uma bateria de reserva (nobreak) ao lado.
+9. familia-plano.png — família brasileira à mesa da cozinha conversando e fazendo uma lista de preparação, lanterna e garrafas de água na mesa.
+10. satelite-orbita.png — satélite de comunicação em órbita, painéis solares abertos, Terra azul ao fundo.
+11. aviao-polar.png — avião comercial voando à noite sobre a região polar, aurora verde no céu.
+12. antenas-gps.png — antenas parabólicas e receptor GNSS/GPS num campo, céu limpo.
+13. estacao-espacial.png — estação espacial em órbita sobre a Terra, astronauta pequeno em atividade extraveicular.
+14. terra-calma.png — a Terra vista do espaço ao nascer do Sol, calma, borda iluminada, sensação de tranquilidade.
+
+Não mexa em nenhum outro arquivo. Ao final, liste os arquivos salvos.

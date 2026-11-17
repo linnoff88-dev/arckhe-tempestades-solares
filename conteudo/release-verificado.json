@@ -1,0 +1,107 @@
+{
+  "url": "https://github.com/inematds/tempestades-solares/releases/tag/videos-v1.0.0",
+  "assets": [
+    {
+      "name": "ARQUIVOS.json",
+      "size": 1233,
+      "digest": "sha256:685922e3296d2b3e513dddad455f643ef15b90c5c1d39179f7b9fe5f6f137c3f",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/ARQUIVOS.json"
+    },
+    {
+      "name": "capa-impacto-916.png",
+      "size": 2365118,
+      "digest": "sha256:bc627cf3cff80c49a7d3df155321267d5406ddd8b491c4b6de295dd77cdb0943",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/capa-impacto-916.png"
+    },
+    {
+      "name": "capa-impacto.png",
+      "size": 2349890,
+      "digest": "sha256:556ca72f0d1791e1774c29cb43a982cce14e732c94847b3344c2c81f8bdad4aa",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/capa-impacto.png"
+    },
+    {
+      "name": "capa-longo.png",
+      "size": 2333887,
+      "digest": "sha256:ca73505c003d1e79cb2aa45b87f1f9ce4b8414a8dbc9445aae650a255c64a7e5",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/capa-longo.png"
+    },
+    {
+      "name": "capa-noaa-v2-916.png",
+      "size": 2282971,
+      "digest": "sha256:2bc491b225747abf335699a8a5124b3de16397f9704ee5c28587f905432ef08d",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/capa-noaa-v2-916.png"
+    },
+    {
+      "name": "capa-noaa-v2.png",
+      "size": 2310518,
+      "digest": "sha256:36a19c3b92cb681fe882f2402818d221845c383da826b37ae9455509c0598587",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/capa-noaa-v2.png"
+    },
+    {
+      "name": "FONTES-E-CREDITOS.txt",
+      "size": 1403,
+      "digest": "sha256:66fcce8781d201796b1e33d6fc25c979982c3eb589141fa490e5195ef6184b6a",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/FONTES-E-CREDITOS.txt"
+    },
+    {
+      "name": "solar-equipamentos-169.mp4",
+      "size": 60742029,
+      "digest": "sha256:d6a8e727575f20ad737b9263fc3bbd96fdd339228734b1a573b7a0f643691847",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-equipamentos-169.mp4"
+    },
+    {
+      "name": "solar-equipamentos-169.srt",
+      "size": 5556,
+      "digest": "sha256:ed92a96377424ed887f8e69694b6dd618275f913aa46fbb74b3e866731d26f34",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-equipamentos-169.srt"
+    },
+    {
+      "name": "solar-equipamentos-916.mp4",
+      "size": 76128838,
+      "digest": "sha256:5f37ecf55c3cd6e3e997acd7e643b8ae8ff7cf25d43ef38a3c0677d2ec13ec13",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-equipamentos-916.mp4"
+    },
+    {
+      "name": "solar-equipamentos-916.srt",
+      "size": 6221,
+      "digest": "sha256:c83dbd031be2554f8854f56b8c75b3fde925bb93d89f42c50d0da28a829ee870",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-equipamentos-916.srt"
+    },
+    {
+      "name": "solar-historia-protecao-169.mp4",
+      "size": 289827545,
+      "digest": "sha256:5bf28c28c66bae5f832969ac078549bd7340dfc5ef2ca8a671b9f03a12f536af",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-historia-protecao-169.mp4"
+    },
+    {
+      "name": "solar-historia-protecao-169.srt",
+      "size": 26905,
+      "digest": "sha256:e1cc0760d00e20bf077fac99bf951617c01da820a1bda9271c17b7cc9b0124b1",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-historia-protecao-169.srt"
+    },
+    {
+      "name": "solar-noaa-painel-169.mp4",
+      "size": 94110014,
+      "digest": "sha256:16c1b70761b4b1034760eb76b84a87f77318350ee64c3668aa06992dce709339",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-noaa-painel-169.mp4"
+    },
+    {
+      "name": "solar-noaa-painel-169.srt",
+      "size": 6891,
+      "digest": "sha256:530ab832e4b22c745f0361fd09d6b80f447546ab454ab32f2e342a5618e081e5",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-noaa-painel-169.srt"
+    },
+    {
+      "name": "solar-noaa-painel-916.mp4",
+      "size": 112563922,
+      "digest": "sha256:1e4fbfdc255a94f7b8695d76004835d9dac8611fc50f9e4e58470b61a0db39f7",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-noaa-painel-916.mp4"
+    },
+    {
+      "name": "solar-noaa-painel-916.srt",
+      "size": 7381,
+      "digest": "sha256:bb0b9a1e047355fe8308e18b48ff04f8f9b5ee99d44867c831338c68178248b5",
+      "browser_download_url": "https://github.com/inematds/tempestades-solares/releases/download/videos-v1.0.0/solar-noaa-painel-916.srt"
+    }
+  ]
+}

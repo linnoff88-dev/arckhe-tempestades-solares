@@ -1,0 +1,46 @@
+[
+  {
+    "file": "/home/nmaldaner/projetos/output/solar-equipamentos-20261116/entrega/solar-equipamentos-169.mp4",
+    "probe": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "102.058000"
+      }
+    },
+    "technical_qa": "passed",
+    "visual_review": "pending",
+    "published": false
+  },
+  {
+    "file": "/home/nmaldaner/projetos/output/solar-equipamentos-20261116/entrega/solar-equipamentos-916.mp4",
+    "probe": {
+      "programs": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "102.058000"
+      }
+    },
+    "technical_qa": "passed",
+    "visual_review": "pending",
+    "published": false
+  }
+]

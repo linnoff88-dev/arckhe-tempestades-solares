@@ -1,0 +1,13 @@
+Gere 9 imagens com a ferramenta de geração de imagem (image_gen) e salve nesta pasta, em PNG, formato PAISAGEM 16:9 (o maior tamanho horizontal disponível). Estilo: fotografia/ilustração cinematográfica realista, alta nitidez, luz NEUTRA (branco parece branco; NADA de paleta âmbar/dourada geral), uma cor forte de destaque por imagem, contraste alto, sem logos, sem marcas, SEM NENHUM TEXTO, letra, número ou legenda na imagem. Deixe o terço de baixo um pouco mais escuro e simples (vai legenda ali) e o canto inferior direito sem o assunto principal (vai o rosto do apresentador ali). Assunto principal à esquerda/centro. Visualização científica é ilustrativa, sem escala.
+
+1. arcos-plasma.png — arcos (loops) de plasma brilhante se erguendo da superfície do Sol, guiados por campo magnético, close dramático.
+2. ciclo-solar.png — cinco discos do Sol lado a lado, da esquerda (calmo, quase sem manchas) para a direita (muito ativo, cheio de manchas), fundo preto.
+3. gps-carro.png — celular num suporte de carro mostrando um mapa de navegação com o sinal falhando (ícone de satélite riscado, sem texto), estrada à noite.
+4. satelite-arrasto.png — satélite em órbita baixa com a borda da atmosfera brilhando logo abaixo, rastro tênue de atrito.
+5. roteador-casa.png — roteador de internet doméstico sobre uma estante, luzes apagadas, casa à noite.
+6. aurora-2024.png — pessoas numa praça de uma cidade pequena de latitude média fotografando com o celular uma aurora rosa e verde no céu (maio de 2024).
+7. cabine-aviao.png — interior de cabine de avião à noite, janela mostrando aurora verde, passageiro dormindo.
+8. astronauta-janela.png — astronauta dentro da estação espacial olhando a Terra pela janela (cúpula).
+9. telegrafo-postes.png — postes e fios de telégrafo do século XIX numa estrada de terra ao anoitecer, céu com aurora vermelha.
+
+Não mexa em nenhum outro arquivo. Ao final, liste os arquivos salvos.

@@ -1,0 +1,37 @@
+[
+  {
+    "file": "solar-equipamentos-169.mp4",
+    "qa": true,
+    "duration": 102.06,
+    "empty_segments": 0,
+    "still_segments": 0
+  },
+  {
+    "file": "solar-equipamentos-916.mp4",
+    "qa": true,
+    "duration": 102.06,
+    "empty_segments": 0,
+    "still_segments": 0
+  },
+  {
+    "file": "solar-noaa-painel-169.mp4",
+    "qa": true,
+    "duration": 127.44,
+    "empty_segments": 0,
+    "still_segments": 0
+  },
+  {
+    "file": "solar-noaa-painel-916.mp4",
+    "qa": true,
+    "duration": 127.44,
+    "empty_segments": 0,
+    "still_segments": 0
+  },
+  {
+    "file": "solar-historia-protecao-169.mp4",
+    "qa": true,
+    "duration": 491.18,
+    "empty_segments": 0,
+    "still_segments": 0
+  }
+]

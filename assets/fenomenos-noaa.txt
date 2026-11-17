@@ -1,0 +1,167 @@
+Skip to main content
+IMAGE
+
+ 
+IMAGE
+
+ 
+
+SPACE WEATHER PREDICTION CENTER
+
+NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+
+ 
+Monday, November 16, 2026 at 03:44:06 UTC
+MAIN NAVIGATION
+HOME
+ABOUT SPACE WEATHER
+PRODUCTS AND DATA
+DASHBOARDS
+MEDIA AND RESOURCES
+TESTBED
+SUBSCRIBE
+WORKSHOP
+FEEDBACK
+Breadcrumb
+Home
+About Space Weather
+Space Weather Phenomena
+CURRENT SPACE WEATHER CONDITIONS on NOAA Scales
+R
+none
+ 
+S
+none
+ 
+G
+none
+SPACE WEATHER PHENOMENA
+About Space Weather Phenomena
+
+Space Weather describes the variations in the space environment between the sun and Earth. In particular Space Weather describes the phenomena that impact systems and technologies in orbit and on Earth. Space weather can occur anywhere from the surface of the sun to the surface of Earth. As a space weather storm leaves the sun, it passes through the corona and into the solar wind. When it reaches Earth, it energizes Earth’s magnetosphere and accelerates electrons and protons down to Earth’s magnetic field lines where they collide with the atmosphere and ionosphere, particularly at high latitudes. Each component of space weather impacts a different technology. A description of some of the space weather impacts can be found at Space Weather Impacts.
+
+AURORA
+
+The Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights) are the result of electrons colliding with the upper reaches of Earth’s atmosphere. (Protons cause faint and diffuse aurora, usually not easily visible to the human eye.) The electrons are energized through acceleration processes in the downwind tail (night side) of the magnetosphere and at lower altitudes along auroral field lines.
+
+CORONAL HOLES
+
+Coronal holes appear as dark areas in the solar corona in extreme ultraviolet (EUV) and soft x-ray solar images. They appear dark because they are cooler, less dense regions than the surrounding plasma and are regions of open, unipolar magnetic fields. This open, magnetic field line structure allows the solar wind to escape more readily into space, resulting in streams of relatively fast solar wind and is often referred to as a high speed stream in the context of analysis of structures in interplanetary space.
+
+CORONAL MASS EJECTIONS
+
+Coronal Mass Ejections (CMEs) are large expulsions of plasma and magnetic field from the Sun’s corona. They can eject billions of tons of coronal material and carry an embedded magnetic field (frozen in flux) that is stronger than the background solar wind interplanetary magnetic field (IMF) strength. CMEs travel outward from the Sun at speeds ranging from slower than 250 kilometers per second (km/s) to as fast as near 3000 km/s. The fastest Earth-directed CMEs can reach our planet in as little as 15-18 hours. Slower CMEs can take several days to arrive.
+
+EARTH'S MAGNETOSPHERE
+
+The magnetosphere is the region of space surrounding Earth where the dominant magnetic field is the magnetic field of Earth, rather than the magnetic field of interplanetary space. The magnetosphere is formed by the interaction of the solar wind with Earth’s magnetic field. This figure illustrates the shape and size of Earth’s magnetic field that is continually changing as it is buffeted by the solar wind.
+
+F10.7 CM RADIO EMISSIONS
+
+The solar radio flux at 10.7 cm (2800 MHz) is an excellent indicator of solar activity. Often called the F10.7 index, it is one of the longest running records of solar activity. The F10.7 radio emissions originates high in the chromosphere and low in the corona of the solar atmosphere. The F10.7 correlates well with the sunspot number as well as a number of UltraViolet (UV) and visible solar irradiance records. The F10.7 has been measured consistently in Canada since 1947, first at Ottawa, Ontario; and then at the Penticton Radio Observatory in British Columbia, Canada.
+
+GALACTIC COSMIC RAYS
+
+Galactic Cosmic Rays (GCR) are the slowly varying, highly energetic background source of energetic particles that constantly bombard Earth. GCR originate outside the solar system and are likely formed by explosive events such as supernova. These highly energetic particles consist of essentially every element ranging from hydrogen, accounting for approximately 89% of the GCR spectrum, to uranium, which is found in trace amounts only. These nuclei are fully ionized, meaning all electrons have been stripped from these atoms.
+
+GEOMAGNETIC STORMS
+
+A geomagnetic storm is a major disturbance of Earth's magnetosphere that occurs when there is a very efficient exchange of energy from the solar wind into the space environment surrounding Earth. These storms result from variations in the solar wind that produces major changes in the currents, plasmas, and fields in Earth’s magnetosphere.
+
+IONOSPHERE
+
+The Ionosphere is part of Earth’s upper atmosphere, between 80 and about 600 km where Extreme UltraViolet (EUV) and x-ray solar radiation ionizes the atoms and molecules thus creating a layer of electrons. the ionosphere is important because it reflects and modifies radio waves used for communication and navigation. Other phenomena such as energetic charged particles and cosmic rays also have an ionizing effect and can contribute to the ionosphere.
+
+IONOSPHERIC SCINTILLATION
+
+Ionospheric scintillation is the rapid modification of radio waves caused by small scale structures in the ionosphere. Severe scintillation conditions can prevent a GPS receiver from locking on to the signal and can make it impossible to calculate a position. Less severe scintillation conditions can reduce the accuracy and the confidence of positioning results.
+
+RADIATION BELTS
+
+Radiation belts are regions of enhanced populations of energetic electrons and protons surrounding the Earth in space. These belts are highly dynamic, increasing and decreasing on time scales of minutes to years. The high levels of radiation caused by the energetic electrons and protons makes this a very harsh region for satellites.
+
+SOLAR EUV IRRADIANCE
+
+Solar Extreme Ultraviolet (EUV) is solar radiation that covers the wavelengths 10 – 120 nm of the electromagnetic spectrum. It is highly energetic and it is absorbed in the upper atmosphere, which not only heats the upper atmosphere but also ionizes it, creating the ionosphere. Solar EUV radiation changes by a factor of ten over the course of a typical solar cycle. This variability produces similar variations in the ionosphere and upper atmosphere. Solar EUV variations are one of the three primary drivers of ionospheric variability.
+
+SOLAR FLARES (RADIO BLACKOUTS)
+
+Solar flares are large eruptions of electromagnetic radiation from the Sun lasting from minutes to hours. The sudden outburst of electromagnetic energy travels at the speed of light, therefore any effect upon the sunlit side of Earth’s exposed outer atmosphere occurs at the same time the event is observed. The increased level of X-ray and extreme ultraviolet (EUV) radiation results in ionization in the lower layers of the ionosphere on the sunlit side of Earth.
+
+SOLAR RADIATION STORM
+
+Solar radiation storms occur when a large-scale magnetic eruption, often causing a coronal mass ejection and associated solar flare, accelerates charged particles in the solar atmosphere to very high velocities. The most important particles are protons which can get accelerated to large fractions of the speed of light. At these velocities, the protons can traverse the 150 million km from sun to Earth in just 10’s of minutes or less.
+
+SOLAR WIND
+
+The solar wind continuously flows outward from the Sun and consists mainly of protons and electrons in a state known as a plasma. Solar magnetic field is embedded in the plasma and flows outward with the solar wind.
+
+SUNSPOTS/SOLAR CYCLE
+
+Sunspots are dark areas that become apparent at the Sun’s photosphere as a result of intense magnetic flux pushing up from further within the solar interior. Areas along this magnetic flux in the upper photosphere and chromosphere heat up, and usually become visible as faculae and plage – often times termed active regions. This causes cooler (7000 F), less dense and darker areas at the heart of these magnetic fields than in the surrounding photosphere (10,000 F) - seen as sunspots.
+
+TOTAL ELECTRON CONTENT
+
+The Total Electron Content (TEC) is the total number of electrons present along a path between a radio transmitter and receiver. Radio waves are affected by the presence of electrons. The more electrons in the path of the radio wave, the more the radio signal will be affected. For ground to satellite communication and satellite navigation, TEC is a good parameter to monitor for possible space weather impacts.
+
+WHAT'S THAT BRIGHT SPOT IN THE CORONAL MASS EJECTIONS IMAGE?
+
+What are those bright spots that appear in the CME Image, people often ask.  Notice in the example above, the spot indicated by the red arrows appears to move from right to left over the course of three days. The Sungrazer Project page hosted by the Naval Research Lab can answer that question.  For our example, the Sungrazer page shows that the bright spot is Mercury, and will be visible from July 17-July 30.
+
+  
+Image
+
+National Oceanic and Atmospheric Administration
+
+National Weather Service
+
+National Centers for Environmental Prediction
+ 
+
+Space Weather Prediction Center
+325 Broadway, Boulder CO 80305
+
+Disclaimer
+
+Privacy Policy
+
+About NOAA's National Weather Service
+
+Careers in Weather
+
+Main menu
+HOME
+ABOUT SPACE WEATHER
+Impacts
+Partners and Stakeholders
+Phenomena
+Additional Info
+PRODUCTS AND DATA
+Forecasts
+Reports
+Models
+Observations
+PRODUCTS AND DATA (CONT.)
+Summaries
+Alerts, Watches and Warnings
+Experimental
+Data Access
+DASHBOARDS
+Aurora
+Aviation
+Electric Power
+Emergency Management
+Global Positioning System
+Radio
+DASHBOARDS (CONT.)
+Satellites
+Space Weather Enthusiasts Dashboard
+MEDIA AND RESOURCES
+Education and Outreach
+Glossary
+News Archive
+Newsroom
+TESTBED
+SUBSCRIBE
+WORKSHOP
+FEEDBACK

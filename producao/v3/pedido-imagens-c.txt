@@ -1,0 +1,18 @@
+Gere 14 imagens com a ferramenta de geração de imagem (image_gen) e salve nesta pasta, em PNG, formato PAISAGEM 16:9 (o maior tamanho horizontal disponível). Estilo: fotografia/ilustração cinematográfica realista, alta nitidez, luz NEUTRA (branco parece branco; NADA de paleta âmbar/dourada geral), uma cor forte de destaque por imagem, contraste alto, sem logos, sem marcas, SEM NENHUM TEXTO, letra, número ou legenda na imagem. Deixe o terço de baixo um pouco mais escuro e simples (vai legenda ali) e o canto inferior direito sem o assunto principal (vai o rosto do apresentador ali). Assunto principal à esquerda/centro. Visualização científica é ilustrativa, sem escala.
+
+1. manchas-solares.png — close da superfície do Sol com um grupo grande de manchas solares escuras e linhas de campo magnético em arco sobre elas.
+2. clarao-raiox.png — clarão solar (flare) explosivo e muito brilhante na superfície do Sol, luz branca intensa irradiando.
+3. particulas-espaco.png — fluxo de partículas energéticas (pontos e riscos brilhantes) atravessando o espaço vindo do Sol, satélite atingido ao fundo.
+4. vento-solar.png — correntes de vento solar fluindo pelo espaço, ondulando em volta da Terra pequena.
+5. ionosfera.png — camada luminosa da atmosfera superior da Terra vista da órbita, brilho fino na borda do planeta.
+6. radio-amador.png — operador de rádio de ondas curtas diante do equipamento, mão no botão, fone no ouvido, sala simples.
+7. sala-controle-rede.png — centro de operação da rede elétrica: operadores diante de painel gigante com o mapa da rede (sem texto legível).
+8. oleoduto-neve.png — oleoduto/gasoduto longo atravessando paisagem fria, tubulação metálica até o horizonte.
+9. tecnico-subestacao.png — técnico com capacete e EPI inspecionando um transformador de subestação, de dia.
+10. trilhos-sinal.png — linha de trem com sinais ferroviários, fim de tarde.
+11. trator-gps.png — trator de agricultura de precisão num campo, antena GPS no teto.
+12. hospital-gerador.png — gerador de emergência de um hospital, sala técnica limpa.
+13. lanterna-mao.png — mão segurando lanterna acesa num corredor escuro de casa.
+14. ceu-noturno-calmo.png — céu noturno estrelado e calmo sobre uma casa no campo com luz acesa na janela.
+
+Não mexa em nenhum outro arquivo. Ao final, liste os arquivos salvos.

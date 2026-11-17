@@ -1,0 +1,18 @@
+Gere 14 imagens com a ferramenta de geração de imagem (image_gen) e salve nesta pasta, em PNG, formato PAISAGEM 16:9 (o maior tamanho horizontal disponível). Estilo: fotografia/ilustração cinematográfica realista, alta nitidez, luz NEUTRA (branco parece branco; NADA de paleta âmbar/dourada geral), uma cor forte de destaque por imagem, contraste alto, sem logos, sem marcas, SEM NENHUM TEXTO, letra, número ou legenda na imagem. Deixe o terço de baixo um pouco mais escuro e simples (vai legenda ali) e o canto inferior direito sem o assunto principal (vai o rosto do apresentador ali). Assunto principal à esquerda/centro. Visualização científica é ilustrativa, sem escala.
+
+1. sol-erupcao.png — o Sol em close, superfície turbulenta, uma grande erupção/proeminência de plasma saindo da borda, fundo espaço preto.
+2. cme-espaco.png — uma enorme nuvem de plasma (ejeção de massa coronal) se expandindo a partir do Sol, à esquerda, rumo a uma Terra pequena e distante à direita.
+3. terra-magnetosfera.png — a Terra vista do espaço com linhas de campo magnético azuis sendo comprimidas por um fluxo de vento solar vindo da esquerda.
+4. aurora-cidade.png — aurora verde e vermelha muito forte no céu noturno sobre o horizonte de uma cidade iluminada.
+5. linhas-transmissao.png — torres de alta tensão em fila atravessando um campo aberto ao entardecer, cabos longos até o horizonte.
+6. transformador-calor.png — grande transformador de subestação de alta tensão, ar tremulando de calor em volta, um ponto do equipamento brilhando vermelho de superaquecimento.
+7. subestacao-noite.png — subestação elétrica à noite, estruturas metálicas, isoladores, luzes de serviço.
+8. cidade-apagao.png — horizonte de uma grande cidade à noite com metade dos prédios completamente apagados e a outra metade ainda acesa.
+9. casa-sem-luz.png — sala de uma casa brasileira durante um apagão, iluminada só por uma lanterna sobre a mesa, família em silhueta.
+10. celular-notebook.png — smartphone e notebook funcionando normalmente sobre uma mesa de casa, telas acesas com conteúdo genérico borrado, ambiente calmo.
+11. torneira-agua.png — torneira de cozinha aberta com água correndo, close.
+12. maquininha-pagamento.png — maquininha de cartão sobre o balcão de uma loja, mão segurando um cartão, tela da maquininha apagada.
+13. torre-celular.png — torre de telefonia celular contra o céu ao fim da tarde, antenas visíveis.
+14. tomada-casa.png — close de uma tomada de parede com um carregador plugado, luz de casa, parede clara.
+
+Não mexa em nenhum outro arquivo. Ao final, liste os arquivos salvos.

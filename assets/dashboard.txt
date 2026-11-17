@@ -1,0 +1,350 @@
+Skip to main content
+IMAGE
+
+ 
+IMAGE
+
+ 
+
+SPACE WEATHER PREDICTION CENTER
+
+NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+
+ 
+Monday, November 16, 2026 at 03:43:57 UTC
+MAIN NAVIGATION
+HOME
+ABOUT SPACE WEATHER
+PRODUCTS AND DATA
+DASHBOARDS
+MEDIA AND RESOURCES
+TESTBED
+SUBSCRIBE
+WORKSHOP
+FEEDBACK
+Breadcrumb
+Home
+Dashboards
+Space Weather Enthusiasts Dashboard
+SPACE WEATHER ENTHUSIASTS DASHBOARD
+SPACE WEATHER CONDITIONS on NOAA Scales
+24-Hour Observed Maximums
+R
+none
+ 
+S
+none
+ 
+G
+none
+Latest Observed
+R
+none
+ 
+S
+none
+ 
+G
+none
+Predicted 2026-11-16 UTC
+R1-R2	25%
+R3-R5	5% S1 or greater	5% 
+G
+none
+Predicted 2026-11-17 UTC
+R1-R2	25%
+R3-R5	5% S1 or greater	5% 
+G1
+minor
+Predicted 2026-11-18 UTC
+R1-R2	25%
+R3-R5	5% S1 or greater	5% 
+G
+none
+Next
+Solar Wind Speed: 323 km/sec Solar Wind Magnetic Fields: Bt 3 nT, Bz 1 nT Noon 10.7cm Radio Flux: 122 sfu
+
+SPACE WEATHER OVERVIEW
+
+	
+Solar
+
+GOES SOLAR ULTRAVIOLET IMAGER
+
+	
+
+SOLAR VISIBLE LIGHT
+
+	
+
+LASCO C3
+
+Solar Wind
+
+ACE MAG AND SWEPAM
+
+	
+
+WSA-ENLIL PREDICTION
+
+Geospace
+
+AURORA FORECAST
+
+	
+
+3-DAY SATELLITE ENVIRONMENT
+
+GOES Proton Flux
+Line chart with 4 lines.
+The chart has 1 X axis displaying Time. Data ranges from 2026-11-13 03:45:00 to 2026-11-16 03:35:00.
+The chart has 1 Y axis displaying values. Data ranges from 0.15868955850601196 to 0.3924015760421753.
+GOES Proton Flux
+Nov 14
+08:00
+16:00
+Nov 15
+08:00
+16:00
+Nov 16
+08:00
+16:00
+Nov 17
+10-2
+100
+102
+104
+10-1
+101
+103
+End of interactive chart.
+GOES Electron Flux
+Line chart with 4 lines.
+The chart has 1 X axis displaying Time. Data ranges from 2026-11-13 03:45:00 to 2026-11-16 03:35:00.
+The chart has 1 Y axis displaying values. Data ranges from 138.29110717773438 to 5836.58056640625.
+GOES Electron Flux
+Nov 14
+08:00
+16:00
+Nov 15
+08:00
+16:00
+Nov 16
+08:00
+16:00
+Nov 17
+100
+102
+104
+106
+10-1
+101
+103
+105
+107
+End of interactive chart.
+GOES Magnetometers
+Line chart with 2 lines.
+The chart has 1 X axis displaying Time. Data ranges from 2026-11-13 03:44:00 to 2026-11-16 03:41:00.
+The chart has 1 Y axis displaying values. Data ranges from 62.003501892089844 to 118.30015563964844.
+GOES Magnetometers
+Nov 14
+08:00
+16:00
+Nov 15
+08:00
+16:00
+Nov 16
+08:00
+16:00
+Nov 17
+0
+200
+End of interactive chart.
+Estimated Kp
+Bar chart with 18 bars.
+The chart has 1 X axis displaying Universal Time. Data ranges from 2026-11-09 00:00:00 to 2026-11-16 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 0.33 to 2.
+Universal Time
+Estimated Kp
+Nov 14
+Nov 15
+Nov 16
+08:00
+16:00
+08:00
+16:00
+08:00
+16:00
+Nov 17
+0
+10
+Space Weather Prediction Center
+End of interactive chart.
+Updated Time: 2026-11-16T03:41:00.000Z
+Ionosphere
+
+TOTAL ELECTRON CONTENT
+
+	
+
+D REGION ABSORPTION PREDICTION
+
+Solar Cycle
+Solar Cycle Sunspot Number Progression
+Combination chart with 19 data series.
+Updated: 2026-11-02
+The chart has 3 X axes displaying Time, Time, and navigator-x-axis.
+The chart has 3 Y axes displaying Sunspot Number, values, and navigator-y-axis.
+Zoom:
+Sunspot Number
+Default
+All
+Numbering On/Off
+Solar Cycle Sunspot Number Progression
+Updated: 2026-11-02
+Monthly Values
+Smoothed Monthly Values
+75th Percentile Predicted Range
+50th Percentile Predicted Range
+25th Percentile Predicted Range
+Predicted Values
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+1750​1750
+1800​1800
+1850​1850
+1900​1900
+1950​1950
+2000​2000
+0
+50
+100
+150
+200
+End of interactive chart.
+Add/Remove Series...
+2019 Panel Prediction
+2019 Panel Prediction (range)
+Solar Cycle F10.7cm Radio Flux Progression
+Combination chart with 19 data series.
+Updated: 2026-11-02
+The chart has 3 X axes displaying Time, Time, and navigator-x-axis.
+The chart has 3 Y axes displaying F10.7 Flux (solar flux units), values, and navigator-y-axis.
+Zoom:
+F10.7 Flux (solar flux units)
+Default
+All
+Numbering On/Off
+Solar Cycle F10.7cm Radio Flux Progression
+Updated: 2026-11-02
+Monthly Values
+75th Percentile Predicted F10.7 Range
+50th Percentile Predicted F10.7 Range
+25th Percentile Predicted F10.7 Range
+Predicted F10.7 Values
+Smoothed Monthly Values
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2005​2005
+2010​2010
+2015​2015
+2020​2020
+2025​2025
+2030​2030
+2035​2035
+2040​2040
+50
+100
+150
+200
+250
+End of interactive chart.
+Add/Remove Series...
+2019 Panel Prediction
+2019 Panel Prediction (range)
+
+
+  
+Image
+
+National Oceanic and Atmospheric Administration
+
+National Weather Service
+
+National Centers for Environmental Prediction
+ 
+
+Space Weather Prediction Center
+325 Broadway, Boulder CO 80305
+
+Disclaimer
+
+Privacy Policy
+
+About NOAA's National Weather Service
+
+Careers in Weather
+
+Main menu
+HOME
+ABOUT SPACE WEATHER
+Impacts
+Partners and Stakeholders
+Phenomena
+Additional Info
+PRODUCTS AND DATA
+Forecasts
+Reports
+Models
+Observations
+PRODUCTS AND DATA (CONT.)
+Summaries
+Alerts, Watches and Warnings
+Experimental
+Data Access
+DASHBOARDS
+Aurora
+Aviation
+Electric Power
+Emergency Management
+Global Positioning System
+Radio
+DASHBOARDS (CONT.)
+Satellites
+Space Weather Enthusiasts Dashboard
+MEDIA AND RESOURCES
+Education and Outreach
+Glossary
+News Archive
+Newsroom
+TESTBED
+SUBSCRIBE
+WORKSHOP
+FEEDBACK

@@ -1,0 +1,3 @@
+Créditos visuais: NOAA / Space Weather Prediction Center; NASA Goddard Space Flight Center Conceptual Image Lab — Bailee DesRocher (magnetosfera, https://svs.gsfc.nasa.gov/20297/) e Walt Feimer (partículas e CME, https://svs.gsfc.nasa.gov/20125/). Animações científicas ilustrativas, sem escala. Telas de dashboard são exemplos de leitura; consulte o boletim vigente.
+Trilha: Star walk — szegvari, CC0, https://freesound.org/people/szegvari/sounds/595385/ . Reutilizada da biblioteca do inemavox.
+Capas: image_gen pela assinatura Codex; diagramas educativos: código SVG.
