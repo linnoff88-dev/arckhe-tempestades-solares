@@ -44,7 +44,7 @@ Fonte: https://www.spaceweather.gov/products/alerts-watches-and-warnings
 
 ## O que fazer com isso
 
-Se o aviso envolve a sua regiêo e serviço, siga as orientações dos responsáveis. Para a família, mantenha um plano de apagêo e baterias carregadas; para satélites, aviaçêo e redes, as medidas sêo técnicas. Você já tinha confundido classe X com apagêo? Aprenda a conferir antes de compartilhar. Tem conteúdo gratuito em inema ponto club.
+Se o aviso envolve a sua regiêo e serviço, siga as orientações dos responsáveis. Para a família, mantenha um plano de apagêo e baterias carregadas; para satélites, aviaçêo e redes, as medidas sêo técnicas. Você já tinha confundido classe X com apagêo? Aprenda a conferir antes de compartilhar. Tem conteúdo gratuito em ARCKHÉ ponto club.
 
 Visual: kit · Tela: Confira antes de compartilhar
 

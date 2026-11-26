@@ -5,7 +5,7 @@ from pathlib import Path
 
 EV = Path('/home/nmaldaner/projetos/explicavideos')
 FILA = '/home/nmaldaner/projetos/wifi/scripts/fila-vaga'
-TRILHA = '/home/nmaldaner/projetos/inemavox/jobs/audio_library/music/freesound_595385_Star_walk_-_Cinematic_Atmo_Amb_Fantasy_S.mp3'
+TRILHA = '/home/nmaldaner/projetos/ARCKHÉvox/jobs/audio_library/music/freesound_595385_Star_walk_-_CARCKHÉtic_Atmo_Amb_Fantasy_S.mp3'
 cfg_path = Path(sys.argv[1]).resolve()
 cfg = json.loads(cfg_path.read_text())
 out = Path(cfg['output'])

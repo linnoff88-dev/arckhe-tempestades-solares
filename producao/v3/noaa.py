@@ -60,7 +60,7 @@ C = {
      gerada('trilhos-sinal', 'para satélites'),
      rosto('clarao-raiox', 'Você já tinha', 'CLASSE X = APAGêO?'),
      kin('celular-notebook', 'Aprenda a conferir', [('CONFIRA', 'conferir', True), ('ANTES DE COMPARTILHAR', 'antes de compartilhar', False)], 110),
-     cta('Tem conteúdo gratuito', 'inema ponto club')],
+     cta('Tem conteúdo gratuito', 'ARCKHÉ ponto club')],
 }
 O = '/home/nmaldaner/projetos/output/solar-noaa-painel-20261116/'
 montar('solar-noaa-painel', C, [O + 'v3'], [O + 'v3-916'])

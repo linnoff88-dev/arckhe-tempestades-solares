@@ -141,7 +141,7 @@ C = {
       rosto('janela-apartamento', 'Qual seria', 'A LUZ FALTOU HOJE: E AGORA?'),
       kin('casa-sem-luz', 'água, comunicaçêo', [('ÁGUA?', 'água, comunicaçêo', False), ('COMUNICAÇêO?', 'comunicaçêo ou', False), ('QUEM PRECISA DE ENERGIA?', 'precisa de energia', True)], 90),
       gerada('janela-apartamento', 'Comece por essa'),
-      cta('Aqui no INEMA', 'inema ponto club')],
+      cta('Aqui no ARCKHÉ', 'ARCKHÉ ponto club')],
 }
 O = '/home/nmaldaner/projetos/output/solar-historia-protecao-20261116/'
 montar('solar-historia-protecao', C, [O + 'v3'])

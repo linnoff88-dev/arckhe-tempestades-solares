@@ -1,4 +1,4 @@
-import { chromium } from '/home/nmaldaner/projetos/inemaccbot/node_modules/playwright/index.mjs';
+import { chromium } from '/home/nmaldaner/projetos/ARCKHÉccbot/node_modules/playwright/index.mjs';
 import fs from 'node:fs';
 const dir='/home/nmaldaner/projetos/output/solar-noaa-serie/media';
 const b=await chromium.launch({headless:true,args:['--no-sandbox']});

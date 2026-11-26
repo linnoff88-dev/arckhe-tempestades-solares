@@ -6,7 +6,7 @@ import hashlib,json,re,subprocess,time,urllib.request
 from pathlib import Path
 
 R=Path(__file__).resolve().parent
-REPO='inematds/explicavideos';TAG='videos-solares-20261116'
+REPO='linnoff88-dev/explicavideos';TAG='videos-solares-20261116'
 URL=f'https://github.com/{REPO}/releases/tag/{TAG}'
 SLUGS=['solar-equipamentos','solar-noaa-painel','solar-historia-protecao']
 KINDS=['impacto','noaa','longo']

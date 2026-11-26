@@ -23,7 +23,7 @@ def write(name,title,sub,body,source='NOAA / SWPC · esquema didático, sem esca
  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3" markerHeight="3" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10Z" fill="#47d8fa"/></marker></defs>
  <rect width="1920" height="1080" fill="url(#bg)"/><g opacity=".09" stroke="#96d4ed">'''+''.join(f'<path d="M0,{i} H1920 M{i},0 V1080"/>' for i in range(0,1920,80))+f'''</g>
  {text(85,105,title,64)}{text(88,163,sub,29,'#99c8dd')}{body}
- {text(85,1025,source,22,'#83a0b9')}{text(1540,1025,'INEMA.CLUB',24,'#ffce71')}</svg>'''
+ {text(85,1025,source,22,'#83a0b9')}{text(1540,1025,'ARCKHÉ AI',24,'#ffce71')}</svg>'''
  (R/(name+'.svg')).write_text(svg)
 
 write('mecanismo','DO SOL ATÉ A TOMADA','Plasma e campo magnético podem perturbar o ambiente da Terra.',

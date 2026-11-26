@@ -132,7 +132,7 @@ Fonte: https://www.spaceweather.gov/impacts/electric-power-transmission
 
 ## A pergunta que importa
 
-Agora você sabe o caminho. O Sol libera energia e material; a Terra responde; serviços podem falhar em condições específicas. Isso merece atençêo e preparo, sem transformar uma hipótese extrema em certeza. Qual seria a sua primeira dificuldade se a luz faltasse hoje: água, comunicaçêo ou alguém que precisa de energia? Comece por essa resposta. Aqui no INEMA a gente aprende para se preparar. Os conteúdos sêo gratuitos em inema ponto club.
+Agora você sabe o caminho. O Sol libera energia e material; a Terra responde; serviços podem falhar em condições específicas. Isso merece atençêo e preparo, sem transformar uma hipótese extrema em certeza. Qual seria a sua primeira dificuldade se a luz faltasse hoje: água, comunicaçêo ou alguém que precisa de energia? Comece por essa resposta. Aqui no ARCKHÉ a gente aprende para se preparar. Os conteúdos sêo gratuitos em ARCKHÉ ponto club.
 
 Visual: kit · Tela: Qual seria sua primeira dificuldade sem luz?
 

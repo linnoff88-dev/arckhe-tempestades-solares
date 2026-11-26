@@ -34,7 +34,7 @@ print('ANTIGO', old_id, ov['status'].get('privacyStatus'), ov['status'].get('pub
 cover = ['capa-impacto.png', None, 'capa-noaa-v2.png', None, 'capa-longo.png'][i]
 args = [CLI, 'publicar', novo, '--canal', 'lives10', '--title', x['video'],
         '--description', Path(x['description']).read_text().split('\n\n', 1)[1],
-        '--tags', 'Sol,NOAA,clima espacial,tempestade solar,INEMA', '--legenda', srt, '--avulso-ok', '--repetir',
+        '--tags', 'Sol,NOAA,clima espacial,tempestade solar,ARCKHÉ', '--legenda', srt, '--avulso-ok', '--repetir',
         '--agendar', x['proposed_publish_local']]
 if cover:
     thumb = REF / f'thumb-{i}.jpg'

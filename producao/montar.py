@@ -51,11 +51,11 @@ def main(slug):
  else:raise RuntimeError('IDs do estúdio nêo chegaram em 1h')
  run(['/home/nmaldaner/projetos/refazvideo/ferramentas/baixa_blocos.sh',o.parent],timeout=23000)
  for b in blocks:
-  key=f"pt-b{b['part']:02d}";trans=o/'verification'/f'transcript-{key}.json';asr=o/'inemavox'/key
+  key=f"pt-b{b['part']:02d}";trans=o/'verification'/f'transcript-{key}.json';asr=o/'ARCKHÉvox'/key
   if not trans.exists():
-   run([FILA,'gpu',slug+'-transcricao','--','python3','/home/nmaldaner/projetos/inemavox/transcrever_v1.py','--in',o/'assets'/f'nei-{key}.mp4','--outdir',asr,'--whisper-model','large-v3','--src','pt','--words'],timeout=14400)
+   run([FILA,'gpu',slug+'-transcricao','--','python3','/home/nmaldaner/projetos/ARCKHÉvox/transcrever_v1.py','--in',o/'assets'/f'nei-{key}.mp4','--outdir',asr,'--whisper-model','large-v3','--src','pt','--words'],timeout=14400)
    words=json.loads((asr/'words.json').read_text());assert len(words)>100
-   d=dict(words=words,text=' '.join(w['word'] for w in words),transcriber='inemavox-whisper-local')
+   d=dict(words=words,text=' '.join(w['word'] for w in words),transcriber='ARCKHÉvox-whisper-local')
    trans.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
   mp3=o/'assets'/f'nei-{key}.mp3'
   if not mp3.exists():run(['ffmpeg','-v','error','-y','-i',o/'assets'/f'nei-{key}.mp4','-vn','-ar','16000','-ac','1','-b:a','64k',mp3])

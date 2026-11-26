@@ -37,7 +37,7 @@ C = {
      foto('erupcoes-pt.png', 'Nenhum gráfico', fonte='SpaceWeatherLive · gráfico de erupções', tag='EXEMPLO DE LEITURA', texto=True),
      carimbo('porcentagem confiável', 'SEM % DE APAGêO', x=.5, y=.5),
      rosto('casa-sem-luz', 'A pergunta prática', 'SUA CASA AGUENTA FICAR SEM ENERGIA?'),
-     cta('Aqui no INEMA', 'inema ponto club') | {'sub_at': 'Conheça os conteúdos'}],
+     cta('Aqui no ARCKHÉ', 'ARCKHÉ ponto club') | {'sub_at': 'Conheça os conteúdos'}],
 }
 O = '/home/nmaldaner/projetos/output/solar-equipamentos-20261116/'
 montar('solar-equipamentos', C, [O + 'v3'], [O + 'v3-916'])

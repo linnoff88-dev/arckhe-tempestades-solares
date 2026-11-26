@@ -76,7 +76,7 @@ for config in [p/'v2.json',p/'v2-916.json']:
     start_word=len(c['speech'][:start_char].split());end_word=len(c['speech'][:end_char].split())
     sh['pontos']=[dict(at=' '.join(w[i:min(i+3,end_word)]).strip('.,;:!?'),focus=[.44 if z%2==0 else .49,.47 if z%2==0 else .53],zoom=1.03+(z%2)*.03) for z,i in enumerate(range(start_word+5,end_word-1,5))]
    # Make final CTA visible over a relevant illustration, without promising an unbuilt kit.
-   if n==len(v['cenas']):s['shots'][-1]['tag']='INEMA.CLUB · APRENDA PARA SE PREPARAR'
+   if n==len(v['cenas']):s['shots'][-1]['tag']='ARCKHÉ AI · APRENDA PARA SE PREPARAR'
   dump(f,spec)
   part=int(f.stem[-2:]);env=dict(os.environ,EXPLICAVIDEOS_CONFIG=str(config))
   subprocess.run(['python3','engine/v2/build_block.py',str(part),'--strict'],cwd=EV,env=env,check=True)

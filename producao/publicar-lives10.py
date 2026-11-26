@@ -15,7 +15,7 @@ items=json.loads((B/'lives10-proposta.json').read_text())
 receipts=[]
 for i,x in enumerate(items):
     cover=['capa-impacto.png',None,'capa-noaa-v2.png',None,'capa-longo.png'][i]
-    args=[CLI,'publicar',x['file'],'--canal','lives10','--title',x['video'],'--description',Path(x['description']).read_text().split('\n\n',1)[1],'--tags','Sol,NOAA,clima espacial,tempestade solar,INEMA','--legenda',x['captions'],'--avulso-ok','--agendar',x['proposed_publish_local']]
+    args=[CLI,'publicar',x['file'],'--canal','lives10','--title',x['video'],'--description',Path(x['description']).read_text().split('\n\n',1)[1],'--tags','Sol,NOAA,clima espacial,tempestade solar,ARCKHÉ','--legenda',x['captions'],'--avulso-ok','--agendar',x['proposed_publish_local']]
     if cover:
         thumb=B/(f'lives10-thumb-{i}.jpg')
         Image.open(B/'media'/cover).convert('RGB').resize((1280,720)).save(thumb,quality=92)

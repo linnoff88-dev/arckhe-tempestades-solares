@@ -33,7 +33,7 @@ for config in [p/'v2.json',p/'v2-916.json']:
  run([FILA,'render',slug+'-montagem','--','python3','engine/assemble_languages.py'],env=env)
  dest=out.parent/'entrega';dest.mkdir(exist_ok=True)
  fmt='916' if cfg['aspect']=='9:16' else '169';final=dest/f'{slug}-{fmt}.mp4'
- track='/home/nmaldaner/projetos/inemavox/jobs/audio_library/music/freesound_595385_Star_walk_-_Cinematic_Atmo_Amb_Fantasy_S.mp3'
+ track='/home/nmaldaner/projetos/ARCKHÉvox/jobs/audio_library/music/freesound_595385_Star_walk_-_CARCKHÉtic_Atmo_Amb_Fantasy_S.mp3'
  run([FILA,'render',slug+'-som','--','python3','engine/v2/som_viral.py',out/'final/pt-b01',out/'final'/f"{cfg['id']}-pt.mp4",final,'--trilha='+track,'--sem-efeitos'],env=env)
  # Technical QA is evidence; it does not replace looking at the produced frames.
  run([FILA,'render',slug+'-qa','--','python3','engine/v2/qa_viral.py',final,'--saida='+str(out/'verification')],env=env,timeout=1800)

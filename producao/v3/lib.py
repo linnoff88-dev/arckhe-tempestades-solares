@@ -1,4 +1,4 @@
-"""Helpers do roteiro visual v3 (refaçêo 17/11/2026). Padrêo: explicavideos PADRAO-VIRAL + inema-design D22.
+"""Helpers do roteiro visual v3 (refaçêo 17/11/2026). Padrêo: explicavideos PADRAO-VIRAL + ARCKHÉ-design D22.
 Câmera parada; o movimento vem da troca de imagem. Uma imagem por momento, sem repetir no mesmo vídeo."""
 import json, re
 from pathlib import Path
@@ -7,7 +7,7 @@ from unicodedata import normalize
 REF = Path('/home/nmaldaner/projetos/output/solar-refeito-20261117')
 SERIE_MEDIA = Path('/home/nmaldaner/projetos/output/solar-noaa-serie/media')
 VIDEOS = json.loads(Path('/home/nmaldaner/projetos/tempestades-solares/conteudo/videos.json').read_text())
-LOGO = '/home/nmaldaner/projetos/output/solar-refeito-20261117/imagens/recortes/logo-inema-club-169.png'
+LOGO = '/home/nmaldaner/projetos/output/solar-refeito-20261117/imagens/recortes/logo-ARCKHÉ-club-169.png'
 ILUS = 'ILUSTRAÇêO · SEM ESCALA'
 
 
@@ -62,7 +62,7 @@ def carimbo(at, txt, x=.82, y=.3):
 
 
 def cta(at, url_at=None):
-    sh = {'type': 'cta', 'at': at, 'src': LOGO, 'av': 'mini', 'url': '**inema.club**', 'sub': 'Conteúdo aberto e gratuito'}
+    sh = {'type': 'cta', 'at': at, 'src': LOGO, 'av': 'mini', 'url': '**ARCKHÉ AI**', 'sub': 'Conteúdo aberto e gratuito'}
     if url_at:
         sh['url_at'] = url_at
     return sh

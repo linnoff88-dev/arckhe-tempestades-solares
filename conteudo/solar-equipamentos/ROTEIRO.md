@@ -44,7 +44,7 @@ Fonte: https://www.weather.gov/safety/space-before
 
 ## Qual é a chance
 
-Grandes apagões por clima espacial sêo raros. Nem toda tempestade extrema causa uma catástrofe. Nenhum gráfico de erupções dá uma porcentagem confiável de o planeta ficar sem luz. A pergunta prática é: sua casa aguenta ficar sem energia? Aqui no INEMA a gente aprende para agir. Conheça os conteúdos gratuitos em inema ponto club.
+Grandes apagões por clima espacial sêo raros. Nem toda tempestade extrema causa uma catástrofe. Nenhum gráfico de erupções dá uma porcentagem confiável de o planeta ficar sem luz. A pergunta prática é: sua casa aguenta ficar sem energia? Aqui no ARCKHÉ a gente aprende para agir. Conheça os conteúdos gratuitos em ARCKHÉ ponto club.
 
 Visual: kit · Tela: Sua casa aguenta ficar sem energia?
 
