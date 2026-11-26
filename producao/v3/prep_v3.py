@@ -1,4 +1,4 @@
-"""Cria as pastas v3 (refação visual) a partir das v2: mesmo avatar, transcrição e alinhamento; visual novo.
+"""Cria as pastas v3 (refaçêo visual) a partir das v2: mesmo avatar, transcriçêo e alinhamento; visual novo.
 Uso: python3 prep_v3.py <slug>"""
 import json, shutil, sys
 from pathlib import Path

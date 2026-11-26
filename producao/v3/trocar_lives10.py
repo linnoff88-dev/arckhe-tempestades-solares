@@ -1,5 +1,5 @@
-"""Troca um vídeo agendado no Lives10 pela versão v3: sobe o novo no MESMO horário, confere,
-e só então tira o antigo do agendamento (fica privado, sem publishAt — reversível; nada é apagado).
+"""Troca um vídeo agendado no Lives10 pela versêo v3: sobe o novo no MESMO horário, confere,
+e só entêo tira o antigo do agendamento (fica privado, sem publishAt — reversível; nada é apagado).
 Uso: python3 trocar_lives10.py <índice 0-4> <novo.mp4> <novo.srt>"""
 import json, os, re, runpy, subprocess, sys
 from datetime import datetime
@@ -25,7 +25,7 @@ def get(resource, **params):
 i, novo, srt = int(sys.argv[1]), sys.argv[2], sys.argv[3]
 x = json.loads((SERIE / 'lives10-proposta.json').read_text())[i]
 old = json.loads((SERIE / 'lives10-recibos.json').read_text())[i]
-assert old['origem'] == x['file'], 'recibo e proposta não batem'
+assert old['origem'] == x['file'], 'recibo e proposta nêo batem'
 old_id = old['video_id']
 ov = get('videos', part='snippet,status', id=old_id)['items'][0]
 assert ov['snippet']['channelId'] == EXPECTED

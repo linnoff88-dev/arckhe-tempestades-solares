@@ -1,6 +1,6 @@
 NOAA alerta sobre explosões solares: você sabe ler os sinais?
 
-Vídeo independente e educativo. O gancho é uma pergunta hipotética. Não é boletim atual, previsão de apagão mundial ou anúncio datado da NOAA.
+Vídeo independente e educativo. O gancho é uma pergunta hipotética. Nêo é boletim atual, previsêo de apagêo mundial ou anúncio datado da NOAA.
 
 Fontes para conferir:
 https://www.spaceweather.gov/phenomena
@@ -19,6 +19,6 @@ https://www.usgs.gov/programs/geomagnetism/science/may-10-2024-magnetic-disturba
 
 Conteúdo educativo gratuito: https://inema.club
 
-Créditos visuais: NOAA / Space Weather Prediction Center; NASA Goddard Space Flight Center Conceptual Image Lab — Bailee DesRocher (magnetosfera, https://svs.gsfc.nasa.gov/20297/) e Walt Feimer (partículas e CME, https://svs.gsfc.nasa.gov/20125/). Animações científicas ilustrativas, sem escala. Telas de dashboard são exemplos de leitura; consulte o boletim vigente.
+Créditos visuais: NOAA / Space Weather Prediction Center; NASA Goddard Space Flight Center Conceptual Image Lab — Bailee DesRocher (magnetosfera, https://svs.gsfc.nasa.gov/20297/) e Walt Feimer (partículas e CME, https://svs.gsfc.nasa.gov/20125/). Animações científicas ilustrativas, sem escala. Telas de dashboard sêo exemplos de leitura; consulte o boletim vigente.
 Trilha: Star walk — szegvari, CC0, https://freesound.org/people/szegvari/sounds/595385/ . Reutilizada da biblioteca do inemavox.
 Capas: image_gen pela assinatura Codex; diagramas educativos: código SVG.

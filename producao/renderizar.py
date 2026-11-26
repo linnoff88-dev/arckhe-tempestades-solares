@@ -1,4 +1,4 @@
-"""Conclui arquivos locais após o HeyGen. Publicação é uma etapa separada."""
+"""Conclui arquivos locais após o HeyGen. Publicaçêo é uma etapa separada."""
 import json,os,subprocess,sys,time
 from pathlib import Path
 R=Path(__file__).resolve().parent;EV=Path('/home/nmaldaner/projetos/explicavideos');FILA='/home/nmaldaner/projetos/wifi/scripts/fila-vaga'
@@ -46,5 +46,5 @@ for config in [p/'v2.json',p/'v2-916.json']:
  if srt.exists(): (dest/(final.stem+'.srt')).write_bytes(srt.read_bytes())
  receipts.append(dict(file=str(final),probe=probe,technical_qa='passed',visual_review='pending',published=False))
 (p/'arquivos-produzidos.json').write_text(json.dumps(receipts,ensure_ascii=False,indent=2)+'\n')
-(p/'STATUS.txt').write_text('Arquivos produzidos e QA técnico aprovado. Revisão visual final e publicação/agendamento ainda pendentes.\n')
+(p/'STATUS.txt').write_text('Arquivos produzidos e QA técnico aprovado. Revisêo visual final e publicaçêo/agendamento ainda pendentes.\n')
 print('ARQUIVOS_PRODUZIDOS',slug,flush=True)

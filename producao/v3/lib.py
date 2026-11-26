@@ -1,4 +1,4 @@
-"""Helpers do roteiro visual v3 (refação 17/11/2026). Padrão: explicavideos PADRAO-VIRAL + inema-design D22.
+"""Helpers do roteiro visual v3 (refaçêo 17/11/2026). Padrêo: explicavideos PADRAO-VIRAL + inema-design D22.
 Câmera parada; o movimento vem da troca de imagem. Uma imagem por momento, sem repetir no mesmo vídeo."""
 import json, re
 from pathlib import Path
@@ -8,7 +8,7 @@ REF = Path('/home/nmaldaner/projetos/output/solar-refeito-20261117')
 SERIE_MEDIA = Path('/home/nmaldaner/projetos/output/solar-noaa-serie/media')
 VIDEOS = json.loads(Path('/home/nmaldaner/projetos/tempestades-solares/conteudo/videos.json').read_text())
 LOGO = '/home/nmaldaner/projetos/output/solar-refeito-20261117/imagens/recortes/logo-inema-club-169.png'
-ILUS = 'ILUSTRAÇÃO · SEM ESCALA'
+ILUS = 'ILUSTRAÇêO · SEM ESCALA'
 
 
 def img(nome):
@@ -36,7 +36,7 @@ def foto(nome, at, fonte=None, tag=None, texto=False, av='mini'):
 
 
 def gerada(nome, at, av='mini'):
-    return foto(nome, at, fonte='Ilustração gerada para este vídeo', av=av)
+    return foto(nome, at, fonte='Ilustraçêo gerada para este vídeo', av=av)
 
 
 def kin(nome, at, palavras, size=110):
@@ -76,7 +76,7 @@ norm = lambda s: re.sub(r'\s+', ' ', re.sub(r'[^a-z0-9 ]', ' ', normalize('NFKD'
 
 
 def montar(slug, cenas, out_dirs, vertical_dirs=()):
-    """cenas: {n: [shots]} → visual-v2/pt-bXX.json em cada saída, conferindo deixas e repetição de imagem."""
+    """cenas: {n: [shots]} → visual-v2/pt-bXX.json em cada saída, conferindo deixas e repetiçêo de imagem."""
     v = next(x for x in VIDEOS if x['slug'] == slug)
     erros, usadas = [], {}
     for n, shots in cenas.items():
@@ -116,7 +116,7 @@ def montar(slug, cenas, out_dirs, vertical_dirs=()):
                 shots = json.loads(json.dumps(cenas[n]))
                 if vertical:
                     for sh in shots:
-                        sh.pop('av', None)   # poses de avatar são do 16:9; no 9:16 vale avatar_916/pip_cena
+                        sh.pop('av', None)   # poses de avatar sêo do 16:9; no 9:16 vale avatar_916/pip_cena
                         s = sh.get('src', '')
                         alt = Path(s).with_name(Path(s).stem + '-916' + Path(s).suffix) if s else None
                         if alt and alt.exists():

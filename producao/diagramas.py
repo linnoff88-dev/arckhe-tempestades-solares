@@ -28,44 +28,44 @@ def write(name,title,sub,body,source='NOAA / SWPC · esquema didático, sem esca
 
 write('mecanismo','DO SOL ATÉ A TOMADA','Plasma e campo magnético podem perturbar o ambiente da Terra.',
  sun(260,420)+earth(1000,420)+line(430,420,820,420)+text(480,365,'NUVEM DE PLASMA',36,'#ffce71')+text(485,480,'horas a dias',40)+
- card(95,680,'1 · SOL','Ejeção de massa coronal')+card(735,680,'2 · TERRA','Perturbação geomagnética')+line(650,760,720,760)+text(160,940,'A direção e o campo magnético fazem diferença.',40,'#ffce71'))
+ card(95,680,'1 · SOL','Ejeçêo de massa coronal')+card(735,680,'2 · TERRA','Perturbaçêo geomagnética')+line(650,760,720,760)+text(160,940,'A direçêo e o campo magnético fazem diferença.',40,'#ffce71'))
 body=''
-for y,letter,title,subtitle in [(245,'R','RADIAÇÃO ELETROMAGNÉTICA','Rádio · chega em cerca de 8 minutos'),(470,'S','PARTÍCULAS ENERGÉTICAS','Satélites e espaço · dezenas de minutos ou menos'),(695,'G','TEMPESTADE GEOMAGNÉTICA','Resposta da Terra · pode afetar a rede elétrica')]:
+for y,letter,title,subtitle in [(245,'R','RADIAÇêO ELETROMAGNÉTICA','Rádio · chega em cerca de 8 minutos'),(470,'S','PARTÍCULAS ENERGÉTICAS','Satélites e espaço · dezenas de minutos ou menos'),(695,'G','TEMPESTADE GEOMAGNÉTICA','Resposta da Terra · pode afetar a rede elétrica')]:
  body+=rect(90,y,1200,190)+f'<circle cx="190" cy="{y+95}" r="64" fill="#124e71"/>'+text(157,y+117,letter,70,'#ffce71')+text(290,y+76,title,39)+text(290,y+133,subtitle,31,'#9dd4ed')
-write('fenomenos','TRÊS RISCOS DIFERENTES','R, S e G classificam efeitos; não são nomes de uma mesma explosão.',body)
+write('fenomenos','TRÊS RISCOS DIFERENTES','R, S e G classificam efeitos; nêo sêo nomes de uma mesma explosêo.',body)
 body=sun(330,470,160)
 for j in range(5):
  body+=f'<ellipse cx="330" cy="470" rx="{200+j*23}" ry="{120+j*25}" stroke="#ffc16c" fill="none" stroke-width="4" transform="rotate({j*28} 330 470)" opacity=".65"/>'
-body+=card(760,275,'PLASMA','Partículas com carga elétrica')+card(760,510,'CAMPOS MAGNÉTICOS','Movimento, tensão e reorganização')+text(110,865,'Manchas e buracos coronais são fenômenos distintos.',35,'#ffce71')+text(110,930,'Ciclo solar: aproximadamente 11 anos.',40)
-write('sol','UM SOL EM MOVIMENTO','Ilustração conceitual; linhas representam campos magnéticos.',body)
+body+=card(760,275,'PLASMA','Partículas com carga elétrica')+card(760,510,'CAMPOS MAGNÉTICOS','Movimento, tensêo e reorganizaçêo')+text(110,865,'Manchas e buracos coronais sêo fenômenos distintos.',35,'#ffce71')+text(110,930,'Ciclo solar: aproximadamente 11 anos.',40)
+write('sol','UM SOL EM MOVIMENTO','Ilustraçêo conceitual; linhas representam campos magnéticos.',body)
 body=earth(620,500,150)
 for k in [0,1,2]:
  body+=f'<path d="M1480,{250+k*70} C150,{80+k*60} 150,{950-k*60} 1480,{760-k*60}" stroke="#52cbf2" fill="none" stroke-width="5" opacity=".7"/>'
 for y in [400,500,600]:body+=line(95,y,350,y)
-body+=text(92,320,'VENTO SOLAR',38,'#ffce71')+text(825,505,'MAGNETOSFERA',43)+card(95,800,'IONOSFERA','Altera propagação de rádio',550,150)+card(740,800,'ATMOSFERA SUPERIOR','Aquecimento e arrasto',550,150)
-write('terra','A TERRA RESPONDE','A interação depende da intensidade, direção e duração do campo.',body)
+body+=text(92,320,'VENTO SOLAR',38,'#ffce71')+text(825,505,'MAGNETOSFERA',43)+card(95,800,'IONOSFERA','Altera propagaçêo de rádio',550,150)+card(740,800,'ATMOSFERA SUPERIOR','Aquecimento e arrasto',550,150)
+write('terra','A TERRA RESPONDE','A interaçêo depende da intensidade, direçêo e duraçêo do campo.',body)
 body=earth(1020,450,110)
 for j in range(12):
  x=120+(j%4)*170;y=280+(j//4)*130
  body+=f'<circle cx="{x}" cy="{y}" r="15" fill="#ffce71"/>'+line(x+24,y,x+100,y)
-body+=card(95,730,'PRÓTONS ENERGÉTICOS','Podem afetar circuitos no espaço',600,170)+card(760,730,'PROTEÇÃO TERRESTRE','Atmosfera reduz exposição no solo',600,170)+text(95,650,'Satélites · astronautas · aviação polar',42,'#ffce71')
-write('particulas','A RADIAÇÃO SOLAR','A exposição no espaço não é a mesma que na superfície.',body)
+body+=card(95,730,'PRÓTONS ENERGÉTICOS','Podem afetar circuitos no espaço',600,170)+card(760,730,'PROTEÇêO TERRESTRE','Atmosfera reduz exposiçêo no solo',600,170)+text(95,650,'Satélites · astronautas · aviaçêo polar',42,'#ffce71')
+write('particulas','A RADIAÇêO SOLAR','A exposiçêo no espaço nêo é a mesma que na superfície.',body)
 body=''
 for x in [220,590]:
  body+=f'<path d="M{x-80},650 L{x},280 L{x+80},650 M{x-62},575 H{x+62} M{x-48},500 H{x+48} M{x-28},400 H{x+28}" fill="none" stroke="#9bb9c9" stroke-width="12"/>'
 for y in [340,400,460]:body+=f'<path d="M120,{y} Q400,{y+85} 700,{y}" fill="none" stroke="#ffce71" stroke-width="7"/>'
-body+=line(730,495,900,495)+rect(945,350,260,290,'#1b5471')+text(960,445,'TRAFO',49)+text(950,515,'CALOR',41,'#ffb064')+text(100,720,'Correntes induzidas em grandes circuitos',42)+card(95,800,'PROTEÇÕES E OPERAÇÃO','Danos e apagões dependem da rede',1200,150)
+body+=line(730,495,900,495)+rect(945,350,260,290,'#1b5471')+text(960,445,'TRAFO',49)+text(950,515,'CALOR',41,'#ffb064')+text(100,720,'Correntes induzidas em grandes circuitos',42)+card(95,800,'PROTEÇÕES E OPERAÇêO','Danos e apagões dependem da rede',1200,150)
 write('rede','ONDE O RISCO SE CONCENTRA','Uma falha na infraestrutura pode tirar o serviço da sua casa.',body)
 body=''
-for i,(title,sub) in enumerate([('LUZ','Lanterna e pilhas'),('ENERGIA','Bateria externa carregada'),('ÁGUA E COMIDA','Reserva de itens essenciais'),('COMUNICAÇÃO','Contatos e plano da família')]):
+for i,(title,sub) in enumerate([('LUZ','Lanterna e pilhas'),('ENERGIA','Bateria externa carregada'),('ÁGUA E COMIDA','Reserva de itens essenciais'),('COMUNICAÇêO','Contatos e plano da família')]):
  x=95+(i%2)*630;y=255+(i//2)*260
  body+=card(x,y,title,sub,570,200)
 body+=text(95,920,'Dependência médica: planeje reserva e local de apoio.',35,'#ffce71')
-write('kit','ANTES DE FALTAR LUZ','Preparação que também ajuda em apagões comuns.',body,'NWS / NOAA · weather.gov/safety/space-before')
+write('kit','ANTES DE FALTAR LUZ','Preparaçêo que também ajuda em apagões comuns.',body,'NWS / NOAA · weather.gov/safety/space-before')
 body=''
-for y,year,title,sub in [(250,'1859','CARRINGTON','Perturbações em telégrafos'),(475,'1989','QUEBEC','Apagão em uma rede moderna'),(700,'2024','TEMPESTADE G5','Não houve apagão mundial')]:
+for y,year,title,sub in [(250,'1859','CARRINGTON','Perturbações em telégrafos'),(475,'1989','QUEBEC','Apagêo em uma rede moderna'),(700,'2024','TEMPESTADE G5','Nêo houve apagêo mundial')]:
  body+=rect(95,y,1200,175)+text(125,y+105,year,76,'#ffce71')+text(410,y+70,title,46)+text(410,y+125,sub,33)
-write('historia','O QUE JÁ ACONTECEU','História real; intensidade não determina sozinha a consequência.',body,'NOAA / SWPC e USGS · registros históricos')
-body=text(105,340,'G5',160,'#ffce71')+text(460,330,'CATEGORIA EXTREMA',48)+text(460,405,'~4 ocorrências por ciclo de 11 anos',38)+rect(95,530,1200,195)+text(125,610,'G5 ≠ CARRINGTON',65)+text(125,680,'G5 ≠ APAGÃO MUNDIAL',59,'#ffce71')+text(105,850,'Frequência do fenômeno não é chance de catástrofe.',37)+text(105,915,'A consequência depende também da infraestrutura.',36,'#a8cde0')
-write('probabilidade','CHANCE DE QUÊ, EXATAMENTE?','O resultado precisa ser definido antes de falar em probabilidade.',body,'NOAA Space Weather Scales · média histórica, não previsão')
+write('historia','O QUE JÁ ACONTECEU','História real; intensidade nêo determina sozinha a consequência.',body,'NOAA / SWPC e USGS · registros históricos')
+body=text(105,340,'G5',160,'#ffce71')+text(460,330,'CATEGORIA EXTREMA',48)+text(460,405,'~4 ocorrências por ciclo de 11 anos',38)+rect(95,530,1200,195)+text(125,610,'G5 ≠ CARRINGTON',65)+text(125,680,'G5 ≠ APAGêO MUNDIAL',59,'#ffce71')+text(105,850,'Frequência do fenômeno nêo é chance de catástrofe.',37)+text(105,915,'A consequência depende também da infraestrutura.',36,'#a8cde0')
+write('probabilidade','CHANCE DE QUÊ, EXATAMENTE?','O resultado precisa ser definido antes de falar em probabilidade.',body,'NOAA Space Weather Scales · média histórica, nêo previsêo')
 print('9 diagramas vetoriais preparados')

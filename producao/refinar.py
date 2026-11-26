@@ -19,23 +19,23 @@ for config in [p/'v2.json',p/'v2-916.json']:
    n=int(ns);c=v['cenas'][n-1];w=c['speech'].split()
    # Keep each scientific source on screen; no fabricated agency endorsement.
    for sh in s['shots']:
-    if sh['type']!='capa':sh['fonte']='NOAA / SWPC · '+('painel usado como exemplo de leitura' if c['arte'] in ['dashboard','goes'] else 'ilustração didática')
+    if sh['type']!='capa':sh['fonte']='NOAA / SWPC · '+('painel usado como exemplo de leitura' if c['arte'] in ['dashboard','goes'] else 'ilustraçêo didática')
     if sh.get('src','').endswith('/capa-noaa.png'):sh['src']=str(R/'media/capa-noaa-v2.png')
     if vertical and sh.get('src'):
      orig=Path(sh['src']);vert=orig.with_name(orig.stem+'-916'+orig.suffix)
      if vert.exists():sh['src']=str(vert)
    selections={
     ('solar-equipamentos',2):('Se ela vier','A mudança do campo','nasa-terra-10s.mp4'),
-    ('solar-noaa-painel',2):('Partículas energéticas','Já uma ejeção','nasa-particulas-10s.mp4'),
+    ('solar-noaa-painel',2):('Partículas energéticas','Já uma ejeçêo','nasa-particulas-10s.mp4'),
     ('solar-historia-protecao',4):('Alguns chegam','Essa tempestade','nasa-particulas-10s.mp4'),
-    ('solar-historia-protecao',5):('O Sol expulsa','Uma erupção luminosa','nasa-terra-10s.mp4'),
+    ('solar-historia-protecao',5):('O Sol expulsa','Uma erupçêo luminosa','nasa-terra-10s.mp4'),
     ('solar-historia-protecao',7):('O campo magnético','Um campo vindo','nasa-terra-10s.mp4'),
    }
    sel=selections.get((slug,n))
    if sel:
     a,b,clip=sel;existing=s['shots'][-1]
     # Add no more than 10 seconds of a clip at its spoken cue; return to diagram.
-    video=dict(type='foto',at=a,src=str(R/'media'/clip),zoom=[1,1.02],tag='VISUALIZAÇÃO CIENTÍFICA · SEM ESCALA',fonte='NASA GSFC / Conceptual Image Lab · Bailee DesRocher' if 'terra' in clip else 'NASA GSFC / Conceptual Image Lab · Walt Feimer')
+    video=dict(type='foto',at=a,src=str(R/'media'/clip),zoom=[1,1.02],tag='VISUALIZAÇêO CIENTÍFICA · SEM ESCALA',fonte='NASA GSFC / Conceptual Image Lab · Bailee DesRocher' if 'terra' in clip else 'NASA GSFC / Conceptual Image Lab · Walt Feimer')
     photo={**existing,'at':b,'pontos':[]}
     # Points before the return cue would violate scene cue order; regenerate later points.
     bi=next(i for i in range(len(w)) if ' '.join(w[i:i+len(b.split())]).strip('.,;:!?').lower()==b.lower())

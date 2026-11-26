@@ -1,4 +1,4 @@
-"""Produção local retomável. Não publica, agenda nem chama modelos por API."""
+"""Produçêo local retomável. Nêo publica, agenda nem chama modelos por API."""
 import json,os,re,shutil,subprocess,sys,time
 from pathlib import Path
 R=Path(__file__).resolve().parent;EV=Path('/home/nmaldaner/projetos/explicavideos')
@@ -46,9 +46,9 @@ def main(slug):
  for _ in range(360):
   blocks=json.loads(manifest.read_text())
   if all(b.get('id') for b in blocks):break
-  if any(b.get('status')=='needs_review' for b in blocks):raise RuntimeError('Submissão precisa de conferência; não reenviar')
+  if any(b.get('status')=='needs_review' for b in blocks):raise RuntimeError('Submissêo precisa de conferência; nêo reenviar')
   time.sleep(10)
- else:raise RuntimeError('IDs do estúdio não chegaram em 1h')
+ else:raise RuntimeError('IDs do estúdio nêo chegaram em 1h')
  run(['/home/nmaldaner/projetos/refazvideo/ferramentas/baixa_blocos.sh',o.parent],timeout=23000)
  for b in blocks:
   key=f"pt-b{b['part']:02d}";trans=o/'verification'/f'transcript-{key}.json';asr=o/'inemavox'/key
@@ -75,7 +75,7 @@ def main(slug):
     if not link.exists():link.symlink_to((o/'assets'/f'nei-{key}.{ext}').resolve())
    visual(v,b,out,vertical)
    run(['python3','engine/v2/build_block.py',b['part'],'--strict'],env=cfg_env(config))
-  (p/'VISUAL-CONSTRUIDO').write_text('Roteiro visual construído com transcrição real; falta revisão por snapshots.\n')
+  (p/'VISUAL-CONSTRUIDO').write_text('Roteiro visual construído com transcriçêo real; falta revisêo por snapshots.\n')
  print('BUILD_CONCLUIDO',slug,flush=True)
 
 if __name__=='__main__':main(sys.argv[1])

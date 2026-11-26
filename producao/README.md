@@ -1,1 +1,1 @@
-Scripts históricos da produção no ambiente INEMA. Contêm caminhos locais e dependem de explicavideos, inemavox, HeyGen e fila-vaga. Não são um instalador portátil. Não executar rotinas de publicação sem conferir destinos e permissões. Não há credenciais neste repositório.
+Scripts históricos da produçêo no ambiente INEMA. Contêm caminhos locais e dependem de explicavideos, inemavox, HeyGen e fila-vaga. Nêo sêo um instalador portátil. Nêo executar rotinas de publicaçêo sem conferir destinos e permissões. Nêo há credenciais neste repositório.

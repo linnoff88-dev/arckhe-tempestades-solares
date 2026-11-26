@@ -13,5 +13,5 @@ for i,x in enumerate(items):
         subprocess.run(['/home/nmaldaner/projetos/wifi/scripts/fila-vaga','render','solar-v3-'+str(i),'--']+cmd,check=True,timeout=2400)
     assert dst.stat().st_size<49*1048576
     subprocess.run(['ffmpeg','-v','error','-i',str(dst),'-f','null','-'],check=True,timeout=600)
-    caption=x['video']+'\nFormato '+x['format']+' · cópia 720p para Telegram. Original Full HD no repositório.\nConteúdo educativo; chamada hipotética, sem previsão datada.\ninema.club'
+    caption=x['video']+'\nFormato '+x['format']+' · cópia 720p para Telegram. Original Full HD no repositório.\nConteúdo educativo; chamada hipotética, sem previsêo datada.\ninema.club'
     subprocess.run(['node','/home/nmaldaner/projetos/refazvideo/ferramentas/enviar_bot_v3.mjs',str(dst),caption],check=True,timeout=900)

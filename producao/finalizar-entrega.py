@@ -1,6 +1,6 @@
 """Libera o pacote completo e avisa o Nei. Somente GitHub e Telegram autorizados.
 
-Não chama a API do YouTube, não agenda e não reenvia avatares.
+Nêo chama a API do YouTube, nêo agenda e nêo reenvia avatares.
 """
 import hashlib,json,re,subprocess,time,urllib.request
 from pathlib import Path
@@ -25,7 +25,7 @@ def release_data():
 def main():
  receipt=R/'ENTREGA.json'
  if receipt.exists():print(receipt.read_text());return
- assert (R/'REVISAO-VISUAL-APROVADA').exists(),'Sem revisão visual'
+ assert (R/'REVISAO-VISUAL-APROVADA').exists(),'Sem revisêo visual'
  # Work is bounded, and a failed render causes an explicit failure notification.
  for _ in range(720):
   files=[]
@@ -38,7 +38,7 @@ def main():
    if all((R/s/'arquivos-produzidos.json').exists() for s in SLUGS):break
   for k in KINDS:
    s=run(['systemctl','--user','show',f'solar-render-{k}-20261116.service','--property=ActiveState','--value']).stdout.strip()
-   assert s!='failed',f'Renderização interrompida: {k}; ver journalctl da unidade'
+   assert s!='failed',f'Renderizaçêo interrompida: {k}; ver journalctl da unidade'
   time.sleep(20)
  else:raise RuntimeError('Prazo de 4 h esgotado para o pacote completo')
  assets=[];manifest=[]
@@ -70,20 +70,20 @@ def main():
   req=urllib.request.Request(f'https://github.com/{REPO}/releases/download/{TAG}/{p.name}',method='HEAD')
   with urllib.request.urlopen(req,timeout=45) as response:assert response.status==200
  message=('✅ Terminei os três vídeos independentes sobre tempestades solares, com seu avatar.\n\n'
- '• Explosão solar e equipamentos — 1min42s, horizontal e vertical.\n'
+ '• Explosêo solar e equipamentos — 1min42s, horizontal e vertical.\n'
  '• NOAA e seus painéis — 2min07s, horizontal e vertical.\n'
- '• História, fenômenos e proteção — 8min11s, horizontal.\n\n'
+ '• História, fenômenos e proteçêo — 8min11s, horizontal.\n\n'
  'Link para baixar as 5 versões em MP4, legendas e capas:\n'+URL+'\n\n'
- 'Arquivos conferidos e disponíveis. O Lives10 ainda não foi agendado: a regra do seu AGENTS.md exige autorização expressa para a API do YouTube. A proposta de um vídeo diferente por dia está preparada.')
+ 'Arquivos conferidos e disponíveis. O Lives10 ainda nêo foi agendado: a regra do seu AGENTS.md exige autorizaçêo expressa para a API do YouTube. A proposta de um vídeo diferente por dia está preparada.')
  mid=notify(message)
  receipt.write_text(json.dumps(dict(url=URL,telegram_message=mid,assets=[p.name for p in assets],youtube_scheduled=False,verified_http=True),ensure_ascii=False,indent=2)+'\n')
- (R/'STATUS.txt').write_text('PACOTE COMPLETO: 3 vídeos independentes, 5 versões MP4, QA aprovado, download HTTP 200.\n'+URL+'\nAviso enviado ao bot v3, mensagem '+str(mid)+'.\nLives10 ainda não agendado; exige autorização expressa de API YouTube.\n')
+ (R/'STATUS.txt').write_text('PACOTE COMPLETO: 3 vídeos independentes, 5 versões MP4, QA aprovado, download HTTP 200.\n'+URL+'\nAviso enviado ao bot v3, mensagem '+str(mid)+'.\nLives10 ainda nêo agendado; exige autorizaçêo expressa de API YouTube.\n')
  print(receipt.read_text(),flush=True)
 
 if __name__=='__main__':
  try:main()
  except Exception as exc:
-  message='⚠ Produção solar: a entrega não foi concluída. '+type(exc).__name__+': '+str(exc)[:350]+'. Avatares preservados; nenhum reenvio e nenhum agendamento automático no YouTube.'
+  message='⚠ Produçêo solar: a entrega nêo foi concluída. '+type(exc).__name__+': '+str(exc)[:350]+'. Avatares preservados; nenhum reenvio e nenhum agendamento automático no YouTube.'
   (R/'ENTREGA-FALHOU.txt').write_text(message+'\n')
   if not (R/'FALHA-AVISADA').exists():
    mid=notify(message);(R/'FALHA-AVISADA').write_text(str(mid)+'\n')

@@ -3,7 +3,7 @@
     "chapter": "Seu mundo sem luz",
     "title": "Seu mundo sem luz",
     "kind": "statement",
-    "speech": "Uma explosão solar pode derreter seus equipamentos e deixar o planeta sem luz? Essa é a pergunta que faz muita gente parar. Mas você precisa entender o mecanismo para separar uma possibilidade física de uma história inventada. Existe risco real de danos e apagões. Não existe base para dizer que todo aparelho vai derreter, nem que um apagão mundial está marcado. Vamos seguir o caminho do Sol até a sua casa, conhecer a história e montar uma proteção possível.",
+    "speech": "Uma explosêo solar pode derreter seus equipamentos e deixar o planeta sem luz? Essa é a pergunta que faz muita gente parar. Mas você precisa entender o mecanismo para separar uma possibilidade física de uma história inventada. Existe risco real de danos e apagões. Nêo existe base para dizer que todo aparelho vai derreter, nem que um apagêo mundial está marcado. Vamos seguir o caminho do Sol até a sua casa, conhecer a história e montar uma proteçêo possível.",
     "source": "https://www.spaceweather.gov/impacts/electric-power-transmission",
     "labels": [
       "Se o Sol apagasse sua cidade?"
@@ -16,7 +16,7 @@
     "chapter": "O Sol é magnético",
     "title": "O Sol é magnético",
     "kind": "statement",
-    "speech": "O Sol é uma esfera de plasma: matéria tão quente que contém partículas eletricamente carregadas. O movimento desse material cria e deforma campos magnéticos. As manchas solares marcam regiões de campo intenso. São mais escuras porque estão mais frias que os arredores. O número de manchas varia num ciclo de cerca de onze anos. Isso ajuda a acompanhar a atividade, mas contar manchas não determina quando a sua cidade ficará sem luz.",
+    "speech": "O Sol é uma esfera de plasma: matéria têo quente que contém partículas eletricamente carregadas. O movimento desse material cria e deforma campos magnéticos. As manchas solares marcam regiões de campo intenso. Sêo mais escuras porque estêo mais frias que os arredores. O número de manchas varia num ciclo de cerca de onze anos. Isso ajuda a acompanhar a atividade, mas contar manchas nêo determina quando a sua cidade ficará sem luz.",
     "source": "https://www.spaceweather.gov/phenomena",
     "labels": [
       "Plasma em movimento · campos magnéticos"
@@ -26,15 +26,15 @@
     "arte": "sol"
   },
   {
-    "chapter": "Erupção: a luz chega primeiro",
-    "title": "Erupção: a luz chega primeiro",
+    "chapter": "Erupçêo: a luz chega primeiro",
+    "title": "Erupçêo: a luz chega primeiro",
     "kind": "statement",
-    "speech": "Quando estruturas magnéticas ficam instáveis e se reorganizam, podem liberar energia de repente: uma erupção solar. Parte dessa energia sai como raios X e ultravioleta. A luz leva aproximadamente oito minutos para chegar à Terra. Quando observamos a erupção, essa radiação também está chegando: não existe um aviso antecipado de horas para essa primeira frente. Ela altera a ionosfera, uma região alta da atmosfera que influencia a propagação do rádio. O efeito importante é a comunicação de alta frequência no lado da Terra que está voltado para o Sol.",
+    "speech": "Quando estruturas magnéticas ficam instáveis e se reorganizam, podem liberar energia de repente: uma erupçêo solar. Parte dessa energia sai como raios X e ultravioleta. A luz leva aproximadamente oito minutos para chegar à Terra. Quando observamos a erupçêo, essa radiaçêo também está chegando: nêo existe um aviso antecipado de horas para essa primeira frente. Ela altera a ionosfera, uma regiêo alta da atmosfera que influencia a propagaçêo do rádio. O efeito importante é a comunicaçêo de alta frequência no lado da Terra que está voltado para o Sol.",
     "source": "https://www.spaceweather.gov/phenomena/solar-flares-radio-blackouts",
     "labels": [
-      "Erupção → radiação → ionosfera → rádio"
+      "Erupçêo → radiaçêo → ionosfera → rádio"
     ],
-    "takeaway": "Erupção → radiação → ionosfera → rádio",
+    "takeaway": "Erupçêo → radiaçêo → ionosfera → rádio",
     "svg": null,
     "arte": "fenomenos"
   },
@@ -42,7 +42,7 @@
     "chapter": "Partículas: outro relógio",
     "title": "Partículas: outro relógio",
     "kind": "statement",
-    "speech": "Uma erupção e seus processos associados também podem acelerar prótons e outras partículas. Alguns chegam em dezenas de minutos ou menos. Essa tempestade de radiação solar é diferente do clarão que acabamos de ver. Satélites podem sofrer erros e danos eletrônicos. Astronautas ficam expostos; em eventos extremos, tripulantes e passageiros de voos altos em latitudes elevadas também podem ter risco aumentado. Aqui embaixo temos a proteção da atmosfera. Não trate uma notícia sobre radiação no espaço como se todos na rua estivessem recebendo a mesma exposição.",
+    "speech": "Uma erupçêo e seus processos associados também podem acelerar prótons e outras partículas. Alguns chegam em dezenas de minutos ou menos. Essa tempestade de radiaçêo solar é diferente do clarêo que acabamos de ver. Satélites podem sofrer erros e danos eletrônicos. Astronautas ficam expostos; em eventos extremos, tripulantes e passageiros de voos altos em latitudes elevadas também podem ter risco aumentado. Aqui embaixo temos a proteçêo da atmosfera. Nêo trate uma notícia sobre radiaçêo no espaço como se todos na rua estivessem recebendo a mesma exposiçêo.",
     "source": "https://www.spaceweather.gov/phenomena/solar-radiation-storm",
     "labels": [
       "Partículas energéticas: risco maior no espaço"
@@ -52,10 +52,10 @@
     "arte": "particulas"
   },
   {
-    "chapter": "Ejeção: uma nuvem a caminho",
-    "title": "Ejeção: uma nuvem a caminho",
+    "chapter": "Ejeçêo: uma nuvem a caminho",
+    "title": "Ejeçêo: uma nuvem a caminho",
     "kind": "statement",
-    "speech": "Há ainda a ejeção de massa coronal. O Sol expulsa plasma e campo magnético para o espaço. Uma erupção luminosa e uma ejeção podem ocorrer juntas, mas não são a mesma coisa. Se a nuvem passar longe da Terra, o espetáculo no Sol não vira uma tempestade aqui. As mais rápidas dirigidas à Terra podem chegar em quinze a dezoito horas; outras levam dias. Precisamos conhecer a direção, a velocidade e o campo magnético. Uma imagem enorme da explosão não responde tudo isso.",
+    "speech": "Há ainda a ejeçêo de massa coronal. O Sol expulsa plasma e campo magnético para o espaço. Uma erupçêo luminosa e uma ejeçêo podem ocorrer juntas, mas nêo sêo a mesma coisa. Se a nuvem passar longe da Terra, o espetáculo no Sol nêo vira uma tempestade aqui. As mais rápidas dirigidas à Terra podem chegar em quinze a dezoito horas; outras levam dias. Precisamos conhecer a direçêo, a velocidade e o campo magnético. Uma imagem enorme da explosêo nêo responde tudo isso.",
     "source": "https://www.spaceweather.gov/phenomena/coronal-mass-ejections",
     "labels": [
       "A nuvem precisa interagir com a Terra"
@@ -68,7 +68,7 @@
     "chapter": "Vento solar e buracos coronais",
     "title": "Vento solar e buracos coronais",
     "kind": "statement",
-    "speech": "Mesmo sem uma grande explosão, o Sol envia um fluxo contínuo de plasma: o vento solar. Buracos coronais são regiões que aparecem escuras em certas imagens, com campo aberto que facilita a saída de vento rápido. Não são buracos perfurando o Sol. Quando o fluxo rápido alcança um fluxo lento, pode haver compressão. Se essas estruturas atingirem o ambiente da Terra, também podem produzir tempestades geomagnéticas. Por isso o monitoramento não olha apenas para explosões.",
+    "speech": "Mesmo sem uma grande explosêo, o Sol envia um fluxo contínuo de plasma: o vento solar. Buracos coronais sêo regiões que aparecem escuras em certas imagens, com campo aberto que facilita a saída de vento rápido. Nêo sêo buracos perfurando o Sol. Quando o fluxo rápido alcança um fluxo lento, pode haver compressêo. Se essas estruturas atingirem o ambiente da Terra, também podem produzir tempestades geomagnéticas. Por isso o monitoramento nêo olha apenas para explosões.",
     "source": "https://www.spaceweather.gov/phenomena/coronal-holes",
     "labels": [
       "Vento rápido também produz perturbações"
@@ -81,7 +81,7 @@
     "chapter": "A Terra responde",
     "title": "A Terra responde",
     "kind": "statement",
-    "speech": "O campo magnético da Terra organiza uma região chamada magnetosfera. Ela desvia grande parte do fluxo de partículas, mas troca energia com o vento solar. Um campo vindo do Sol orientado para o sul por tempo suficiente favorece essa transferência. O sistema de correntes no espaço e na alta atmosfera muda. Aparecem auroras, alterações na ionosfera e perturbações no campo magnético medido no solo. Essa resposta da Terra é a tempestade geomagnética. Não é uma bola de fogo atravessando a atmosfera.",
+    "speech": "O campo magnético da Terra organiza uma regiêo chamada magnetosfera. Ela desvia grande parte do fluxo de partículas, mas troca energia com o vento solar. Um campo vindo do Sol orientado para o sul por tempo suficiente favorece essa transferência. O sistema de correntes no espaço e na alta atmosfera muda. Aparecem auroras, alterações na ionosfera e perturbações no campo magnético medido no solo. Essa resposta da Terra é a tempestade geomagnética. Nêo é uma bola de fogo atravessando a atmosfera.",
     "source": "https://www.spaceweather.gov/phenomena/geomagnetic-storms",
     "labels": [
       "A tempestade é uma resposta do sistema terrestre"
@@ -94,7 +94,7 @@
     "chapter": "Como a rede pode falhar",
     "title": "Como a rede pode falhar",
     "kind": "statement",
-    "speech": "Agora o caminho até a sua tomada. Campo magnético variando pode induzir correntes em grandes circuitos condutores. Linhas de transmissão longas e aterradas entram nessa história. Correntes induzidas podem levar transformadores a operar fora da condição prevista: há aquecimento e atuação de proteções. Dependendo da intensidade e da vulnerabilidade da rede, podem ocorrer danos e desligamentos. A expressão derreter todos os equipamentos esconde essa diferença: um grande transformador pode sofrer dano térmico sem que todos os seus aparelhos derretam. A casa pode ficar sem serviço mesmo com o celular inteiro na mão.",
+    "speech": "Agora o caminho até a sua tomada. Campo magnético variando pode induzir correntes em grandes circuitos condutores. Linhas de transmissêo longas e aterradas entram nessa história. Correntes induzidas podem levar transformadores a operar fora da condiçêo prevista: há aquecimento e atuaçêo de proteções. Dependendo da intensidade e da vulnerabilidade da rede, podem ocorrer danos e desligamentos. A expressêo derreter todos os equipamentos esconde essa diferença: um grande transformador pode sofrer dano térmico sem que todos os seus aparelhos derretam. A casa pode ficar sem serviço mesmo com o celular inteiro na mêo.",
     "source": "https://www.spaceweather.gov/impacts/electric-power-transmission",
     "labels": [
       "Rede vulnerável → falha de serviço na casa"
@@ -104,10 +104,10 @@
     "arte": "rede"
   },
   {
-    "chapter": "Não é só eletricidade",
-    "title": "Não é só eletricidade",
+    "chapter": "Nêo é só eletricidade",
+    "title": "Nêo é só eletricidade",
     "kind": "statement",
-    "speech": "A ionosfera alterada também pode atrapalhar navegação por satélite. O receptor pode perder precisão ou sinal. Na atmosfera superior, o aquecimento aumenta o arrasto sobre satélites de órbita baixa. Operadores precisam acompanhar suas trajetórias. Redes elétricas, satélites, rádio e navegação têm mecanismos de falha diferentes. E perder internet não prova que o seu roteador queimou: o problema pode estar na energia ou em outra parte do serviço.",
+    "speech": "A ionosfera alterada também pode atrapalhar navegaçêo por satélite. O receptor pode perder precisêo ou sinal. Na atmosfera superior, o aquecimento aumenta o arrasto sobre satélites de órbita baixa. Operadores precisam acompanhar suas trajetórias. Redes elétricas, satélites, rádio e navegaçêo têm mecanismos de falha diferentes. E perder internet nêo prova que o seu roteador queimou: o problema pode estar na energia ou em outra parte do serviço.",
     "source": "https://www.spaceweather.gov/phenomena/geomagnetic-storms",
     "labels": [
       "GPS · satélites · rádio · energia"
@@ -120,7 +120,7 @@
     "chapter": "Carrington: o aviso da história",
     "title": "Carrington: o aviso da história",
     "kind": "statement",
-    "speech": "Em mil oitocentos e cinquenta e nove aconteceu o evento de Carrington. Uma perturbação geomagnética muito intensa afetou sistemas telegráficos e produziu auroras incomuns. Há relatos históricos de faíscas e incêndios associados aos telégrafos. Isso demonstra que correntes naturais podem interferir em redes construídas por nós. Mas naquele tempo não existia a rede elétrica atual. Usar Carrington para calcular exatamente quantos aparelhos de hoje queimariam seria inventar uma medição que nunca aconteceu.",
+    "speech": "Em mil oitocentos e cinquenta e nove aconteceu o evento de Carrington. Uma perturbaçêo geomagnética muito intensa afetou sistemas telegráficos e produziu auroras incomuns. Há relatos históricos de faíscas e incêndios associados aos telégrafos. Isso demonstra que correntes naturais podem interferir em redes construídas por nós. Mas naquele tempo nêo existia a rede elétrica atual. Usar Carrington para calcular exatamente quantos aparelhos de hoje queimariam seria inventar uma mediçêo que nunca aconteceu.",
     "source": "https://www.usgs.gov/programs/geomagnetism/science/may-10-2024-magnetic-disturbance-peak-dst-351-nt",
     "labels": [
       "1859: telégrafos afetados"
@@ -133,12 +133,12 @@
     "chapter": "Quebec e o contraste recente",
     "title": "Quebec e o contraste recente",
     "kind": "statement",
-    "speech": "Em março de mil novecentos e oitenta e nove, uma tempestade provocou um apagão em Quebec. É um exemplo concreto de impacto em uma rede moderna. Em maio de dois mil e vinte e quatro, outra tempestade chegou a G cinco, a categoria extrema da NOAA. Houve efeitos tecnológicos e auroras muito amplas, mas não um apagão mundial. Os dois exemplos ensinam que a categoria, sozinha, não determina o tamanho da consequência. Exposição, duração e preparação também importam.",
+    "speech": "Em março de mil novecentos e oitenta e nove, uma tempestade provocou um apagêo em Quebec. É um exemplo concreto de impacto em uma rede moderna. Em maio de dois mil e vinte e quatro, outra tempestade chegou a G cinco, a categoria extrema da NOAA. Houve efeitos tecnológicos e auroras muito amplas, mas nêo um apagêo mundial. Os dois exemplos ensinam que a categoria, sozinha, nêo determina o tamanho da consequência. Exposiçêo, duraçêo e preparaçêo também importam.",
     "source": "https://www.usgs.gov/programs/geomagnetism/science/may-10-2024-magnetic-disturbance-peak-dst-351-nt",
     "labels": [
-      "1989: apagão · 2024: G5 sem apagão mundial"
+      "1989: apagêo · 2024: G5 sem apagêo mundial"
     ],
-    "takeaway": "1989: apagão · 2024: G5 sem apagão mundial",
+    "takeaway": "1989: apagêo · 2024: G5 sem apagêo mundial",
     "svg": null,
     "arte": "historia"
   },
@@ -146,12 +146,12 @@
     "chapter": "Qual é a probabilidade",
     "title": "Qual é a probabilidade",
     "kind": "statement",
-    "speech": "Pode acontecer de novo? Sim. Podemos marcar uma data ou dar uma porcentagem universal de apagão mundial? Não. As probabilidades dependem do evento e do resultado que estamos medindo. A tabela histórica da NOAA indica cerca de quatro ocorrências G cinco por ciclo de onze anos. Isso não significa quatro eventos de Carrington nem quatro colapsos globais. O próprio serviço meteorológico americano explica que a grande maioria das tempestades G cinco não causa dano catastrófico à rede. Frequência de tempestade não é probabilidade de perder tudo.",
+    "speech": "Pode acontecer de novo? Sim. Podemos marcar uma data ou dar uma porcentagem universal de apagêo mundial? Nêo. As probabilidades dependem do evento e do resultado que estamos medindo. A tabela histórica da NOAA indica cerca de quatro ocorrências G cinco por ciclo de onze anos. Isso nêo significa quatro eventos de Carrington nem quatro colapsos globais. O próprio serviço meteorológico americano explica que a grande maioria das tempestades G cinco nêo causa dano catastrófico à rede. Frequência de tempestade nêo é probabilidade de perder tudo.",
     "source": "https://www.spaceweather.gov/noaa-scales-explanation",
     "labels": [
-      "G5 ≠ Carrington ≠ apagão mundial"
+      "G5 ≠ Carrington ≠ apagêo mundial"
     ],
-    "takeaway": "G5 ≠ Carrington ≠ apagão mundial",
+    "takeaway": "G5 ≠ Carrington ≠ apagêo mundial",
     "svg": null,
     "arte": "probabilidade"
   },
@@ -159,7 +159,7 @@
     "chapter": "Veja o que a NOAA mede",
     "title": "Veja o que a NOAA mede",
     "kind": "statement",
-    "speech": "O dashboard oficial junta imagens do Sol, raios X, vento solar e previsões. No gráfico GOES, classes A, B, C, M e X descrevem o pico de raios X. Cada degrau inicial é dez vezes o anterior. O coronógrafo revela material que sai da vizinhança solar; o modelo Enlil estima sua propagação. Já os instrumentos perto da Terra refinam a avaliação quando a perturbação chega a eles. Em algumas situações, esse último aviso tem só quinze a sessenta minutos. As ferramentas se complementam; nenhuma é uma contagem regressiva infalível.",
+    "speech": "O dashboard oficial junta imagens do Sol, raios X, vento solar e previsões. No gráfico GOES, classes A, B, C, M e X descrevem o pico de raios X. Cada degrau inicial é dez vezes o anterior. O coronógrafo revela material que sai da vizinhança solar; o modelo Enlil estima sua propagaçêo. Já os instrumentos perto da Terra refinam a avaliaçêo quando a perturbaçêo chega a eles. Em algumas situações, esse último aviso tem só quinze a sessenta minutos. As ferramentas se complementam; nenhuma é uma contagem regressiva infalível.",
     "source": "https://www.spaceweather.gov/phenomena/coronal-mass-ejections",
     "labels": [
       "Imagens + medições + modelos"
@@ -172,7 +172,7 @@
     "chapter": "Como ler um alerta",
     "title": "Como ler um alerta",
     "kind": "statement",
-    "speech": "Três escalas evitam confusão. Erre mede interrupções de rádio. Esse mede tempestades de radiação solar. Gê mede tempestades geomagnéticas. Todas vão de um a cinco. Um aviso sobre rádio não equivale automaticamente a ameaça grave para a rede elétrica. No painel, separe valor observado de previsão. Confira o horário em tempo universal e a validade. Watch trata da possibilidade futura; warning indica condição esperada em breve; alert informa um limiar observado. Abra o texto completo e veja os impactos e as áreas mencionadas.",
+    "speech": "Três escalas evitam confusêo. Erre mede interrupções de rádio. Esse mede tempestades de radiaçêo solar. Gê mede tempestades geomagnéticas. Todas vêo de um a cinco. Um aviso sobre rádio nêo equivale automaticamente a ameaça grave para a rede elétrica. No painel, separe valor observado de previsêo. Confira o horário em tempo universal e a validade. Watch trata da possibilidade futura; warning indica condiçêo esperada em breve; alert informa um limiar observado. Abra o texto completo e veja os impactos e as áreas mencionadas.",
     "source": "https://www.spaceweather.gov/products/alerts-watches-and-warnings",
     "labels": [
       "Letra · intensidade · validade · impacto"
@@ -185,20 +185,20 @@
     "chapter": "Como a sua família se protege",
     "title": "Como a sua família se protege",
     "kind": "statement",
-    "speech": "Para a sua casa, o melhor primeiro passo é preparar a falta do serviço: lanterna, bateria externa carregada, água, alimentos que não dependam de geladeira, remédios e contatos anotados. Mantenha cópia de documentos importantes. Combine como a família se comunica se a rede falhar. Quem depende de equipamento médico precisa planejar energia de reserva e um local de apoio com antecedência. Esse preparo serve para tempestades comuns e falhas elétricas também. Se usar gerador, deixe-o fora de casa e longe de portas e janelas: o monóxido de carbono mata.",
+    "speech": "Para a sua casa, o melhor primeiro passo é preparar a falta do serviço: lanterna, bateria externa carregada, água, alimentos que nêo dependam de geladeira, remédios e contatos anotados. Mantenha cópia de documentos importantes. Combine como a família se comunica se a rede falhar. Quem depende de equipamento médico precisa planejar energia de reserva e um local de apoio com antecedência. Esse preparo serve para tempestades comuns e falhas elétricas também. Se usar gerador, deixe-o fora de casa e longe de portas e janelas: o monóxido de carbono mata.",
     "source": "https://www.weather.gov/safety/space-before",
     "labels": [
-      "Prepare energia, água e comunicação"
+      "Prepare energia, água e comunicaçêo"
     ],
-    "takeaway": "Prepare energia, água e comunicação",
+    "takeaway": "Prepare energia, água e comunicaçêo",
     "svg": null,
     "arte": "kit"
   },
   {
-    "chapter": "Proteção da infraestrutura",
-    "title": "Proteção da infraestrutura",
+    "chapter": "Proteçêo da infraestrutura",
+    "title": "Proteçêo da infraestrutura",
     "kind": "statement",
-    "speech": "A proteção das grandes redes cabe a operadores e engenheiros: acompanhar medições, ajustar a operação e reduzir exposição dos equipamentos conforme seus planos. Famílias devem seguir a distribuidora e a Defesa Civil. Não abra um quadro elétrico nem improvise aterramento para enfrentar notícia de tempestade solar. Um filtro de tomada não pode ser vendido como garantia contra todo esse conjunto de riscos. Preparação responsável junta monitoramento, infraestrutura e um plano doméstico.",
+    "speech": "A proteçêo das grandes redes cabe a operadores e engenheiros: acompanhar medições, ajustar a operaçêo e reduzir exposiçêo dos equipamentos conforme seus planos. Famílias devem seguir a distribuidora e a Defesa Civil. Nêo abra um quadro elétrico nem improvise aterramento para enfrentar notícia de tempestade solar. Um filtro de tomada nêo pode ser vendido como garantia contra todo esse conjunto de riscos. Preparaçêo responsável junta monitoramento, infraestrutura e um plano doméstico.",
     "source": "https://www.spaceweather.gov/impacts/electric-power-transmission",
     "labels": [
       "Operadores protegem a rede; família prepara autonomia"
@@ -211,7 +211,7 @@
     "chapter": "A pergunta que importa",
     "title": "A pergunta que importa",
     "kind": "statement",
-    "speech": "Agora você sabe o caminho. O Sol libera energia e material; a Terra responde; serviços podem falhar em condições específicas. Isso merece atenção e preparo, sem transformar uma hipótese extrema em certeza. Qual seria a sua primeira dificuldade se a luz faltasse hoje: água, comunicação ou alguém que precisa de energia? Comece por essa resposta. Aqui no INEMA a gente aprende para se preparar. Os conteúdos são gratuitos em inema ponto club.",
+    "speech": "Agora você sabe o caminho. O Sol libera energia e material; a Terra responde; serviços podem falhar em condições específicas. Isso merece atençêo e preparo, sem transformar uma hipótese extrema em certeza. Qual seria a sua primeira dificuldade se a luz faltasse hoje: água, comunicaçêo ou alguém que precisa de energia? Comece por essa resposta. Aqui no INEMA a gente aprende para se preparar. Os conteúdos sêo gratuitos em inema ponto club.",
     "source": "https://www.weather.gov/safety/space-before",
     "labels": [
       "Qual seria sua primeira dificuldade sem luz?"

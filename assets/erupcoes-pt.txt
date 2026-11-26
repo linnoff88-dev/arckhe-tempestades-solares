@@ -90,12 +90,12 @@ C1.58
 C5.55
 Sol de hoje
 Classe	Probability
-Explosão solar classe C	90%
-Explosão solar classe M	25%
-Explosão solar classe X	5%
+Explosêo solar classe C	90%
+Explosêo solar classe M	25%
+Explosêo solar classe X	5%
 Eventos no Sol nas últimas 24 horas
 Todos os horários em UTC
-Data	Região	Solar flare	Começo	Máximo	Fim
+Data	Regiêo	Solar flare	Começo	Máximo	Fim
 15/11/2026	4579	
 C1.5
 	21:16	21:27	21:34
@@ -134,7 +134,7 @@ SOLAR-1
 Blecaute de Rádio
 D-Region Absorption
 Voltar ao topo
-Atualmente não há clima espacial digno de nota
+Atualmente nêo há clima espacial digno de nota
 Últimas notícias
 domingo, 13 setembro 2026
 Coronal hole faces Earth
@@ -155,7 +155,7 @@ An amateur magnetometer network
 Mais tópicos 
 Apoie o SpaceWeatherLive.com!
 
-Muitas pessoas vêm ao SpaceWeatherLive para acompanhar a atividade solar ou se houver uma chance de ver a aurora, mas com mais tráfego, os custos para manter os servidores online aumentam. Se você gosta do SpaceWeatherLive e quer apoiar o projeto, pode escolher uma subscrição para um site sem anúncios ou considerar uma doação. Com a sua ajuda, podemos manter o SpaceWeatherLive online!
+Muitas pessoas vêm ao SpaceWeatherLive para acompanhar a atividade solar ou se houver uma chance de ver a aurora, mas com mais tráfego, os custos para manter os servidores online aumentam. Se você gosta do SpaceWeatherLive e quer apoiar o projeto, pode escolher uma subscriçêo para um site sem anúncios ou considerar uma doaçêo. Com a sua ajuda, podemos manter o SpaceWeatherLive online!
 
 Pro
 Sem anúncios no SWL Pro!
@@ -166,14 +166,14 @@ Doar
  Confira nossos produtos 
 Últimos alertas
 sábado, 14 novembro 2026
-23:00 UTC - Emissão de rádio tipo IV
+23:00 UTC - Emissêo de rádio tipo IV
 
 Hora de início: 14/11/2026 21:32 UTC
 
  Receba alertas instantâneos! 
 Fatos sobre o clima espacial
-Última explosão X	04/07/2026	X1.3
-Última explosão M	11/11/2026	M1.78
+Última explosêo X	04/07/2026	X1.3
+Última explosêo M	11/11/2026	M1.78
 Última tempestade geomagnética	08/11/2026	Kp5 G1
 Dias impecáveis
 Últimos 365 dias	4 dias
@@ -198,12 +198,12 @@ Erupções solares
 4	1999	-79	
 5	2014	-59	
 Aurora mestre dois na história
-Nenhuma observação foi submetido neste dia na história. Se você observou a aurora e tem fotos incríveis para mostrar, envie suas observações agora!
- Envie sua observação da aurora
+Nenhuma observaçêo foi submetido neste dia na história. Se você observou a aurora e tem fotos incríveis para mostrar, envie suas observações agora!
+ Envie sua observaçêo da aurora
 Redes sociais
 SOBRE PARSEC VZW
 
-Parsec vzw é uma organização sem fins lucrativos da Bélgica que consiste em vários sites sobre Astronomia, Espaço, Clima Espacial, aurora e assuntos relacionados. Nossa organização promove esses ramos científicos na rede mundial de computadores com sites como este. Dê o seu apoio à nossa organização fazendo uma doação.
+Parsec vzw é uma organizaçêo sem fins lucrativos da Bélgica que consiste em vários sites sobre Astronomia, Espaço, Clima Espacial, aurora e assuntos relacionados. Nossa organizaçêo promove esses ramos científicos na rede mundial de computadores com sites como este. Dê o seu apoio à nossa organizaçêo fazendo uma doaçêo.
 
 Support our non-profit
 NOSSOS SITES
@@ -224,7 +224,7 @@ Mobile apps:
 Google Play
 App Store
 Copyright © 2003-2026 SpaceWeatherLive © All rights reserved • Part of Parsec vzw
-Isenção de responsabilidade
+Isençêo de responsabilidade
 •
 Política de Privacidade
 •

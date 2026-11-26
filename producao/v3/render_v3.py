@@ -1,4 +1,4 @@
-"""Build + check + render + som + QA de um vídeo v3 (refação visual). Mesmo avatar e alinhamento.
+"""Build + check + render + som + QA de um vídeo v3 (refaçêo visual). Mesmo avatar e alinhamento.
 Uso: python3 render_v3.py <config.json> [--so-build]"""
 import json, os, subprocess, sys
 from pathlib import Path
